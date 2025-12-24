@@ -1,5 +1,5 @@
 {
   "structure-type": "blueprint",
-  "structure-form": "files",
+  "structure-form": "json",
   "structure-root": "blueprint"
 }
