@@ -1,0 +1,1132 @@
+{
+  "veri:eq4582": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq5093": {
+    "dependencies": [
+      "veri:5093-nontrivial"
+    ],
+    "visible": true
+  },
+  "veri:5093-nontrivial": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:law-count": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:sound-complete": {
+    "dependencies": [
+      "veri:freemag-exist",
+      "veri:compactness-thm"
+    ],
+    "visible": true
+  },
+  "veri:freemag-exist": {
+    "dependencies": [
+      "veri:canonical-invariant"
+    ],
+    "visible": true
+  },
+  "veri:compactness-thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:canonical-invariant": {
+    "dependencies": [
+      "veri:anti-impl"
+    ],
+    "visible": true
+  },
+  "veri:anti-impl": {
+    "dependencies": [
+      "veri:confluent-anti-impl"
+    ],
+    "visible": true
+  },
+  "veri:1516-no-255": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq46": {
+    "dependencies": [
+      "veri:constant-impl"
+    ],
+    "visible": true
+  },
+  "veri:constant-impl": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq4579": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:lifting-magma-family": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:push": {
+    "dependencies": [
+      "veri:law-count",
+      "veri:law-count-sym"
+    ],
+    "visible": true
+  },
+  "veri:law-count-sym": {
+    "dependencies": [
+      "veri:law-count-triv"
+    ],
+    "visible": true
+  },
+  "veri:law-count-triv": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:linear-2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1516-ext-var": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:854-extend": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:lifting-magma-basis-evaluation": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1516-base": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:partial-solution2": {
+    "dependencies": [
+      "veri:obelix-extend"
+    ],
+    "visible": true
+  },
+  "veri:obelix-extend": {
+    "dependencies": [
+      "veri:a0000000189"
+    ],
+    "visible": true
+  },
+  "veri:a0000000189": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:a0000000524": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq3588": {
+    "dependencies": [
+      "veri:non_imp_3994_3588_thm",
+      "veri:finite_imp_3994_3588"
+    ],
+    "visible": true
+  },
+  "veri:non_imp_3994_3588_thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:finite_imp_3994_3588": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq3722": {
+    "dependencies": [
+      "veri:3744_implies_3722_381"
+    ],
+    "visible": true
+  },
+  "veri:3744_implies_3722_381": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:Eq1729.reduce_to_new_axioms": {
+    "dependencies": [
+      "veri:chain"
+    ],
+    "visible": true
+  },
+  "veri:chain": {
+    "dependencies": [
+      "veri:1729_refute_817"
+    ],
+    "visible": true
+  },
+  "veri:1729_refute_817": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:confluent-anti-impl": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:mag": {
+    "dependencies": [
+      "veri:Eq1729.reduce_to_new_axioms"
+    ],
+    "visible": true
+  },
+  "veri:eq953": {
+    "dependencies": [
+      "veri:953_equiv_2"
+    ],
+    "visible": true
+  },
+  "veri:953_equiv_2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1491": {
+    "dependencies": [
+      "veri:a0000000189",
+      "veri:asterix-obelix-finite",
+      "veri:asterix-obelix"
+    ],
+    "visible": true
+  },
+  "veri:asterix-obelix-finite": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:asterix-obelix": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:duality": {
+    "dependencies": [
+      "veri:29_equiv_14"
+    ],
+    "visible": true
+  },
+  "veri:29_equiv_14": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:iteration": {
+    "dependencies": [
+      "veri:extend"
+    ],
+    "visible": true
+  },
+  "veri:extend": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:255-equiv": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:first-ext": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:n-prop": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:14_implies_29": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:extend-854": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq7": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq387": {
+    "dependencies": [
+      "veri:387_implies_43"
+    ],
+    "visible": true
+  },
+  "veri:387_implies_43": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:enlarge-l0": {
+    "dependencies": [
+      "veri:enlarge-l0-many"
+    ],
+    "visible": true
+  },
+  "veri:enlarge-l0-many": {
+    "dependencies": [
+      "veri:enlarge-S-induct"
+    ],
+    "visible": true
+  },
+  "veri:enlarge-S-induct": {
+    "dependencies": [
+      "veri:enlarge-S"
+    ],
+    "visible": true
+  },
+  "veri:enlarge-S": {
+    "dependencies": [
+      "veri:enlarge-op"
+    ],
+    "visible": true
+  },
+  "veri:a0000000395": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:free-magma-def": {
+    "dependencies": [
+      "veri:induced-def",
+      "veri:confluent-theory"
+    ],
+    "visible": true
+  },
+  "veri:induced-def": {
+    "dependencies": [
+      "veri:law-def"
+    ],
+    "visible": true
+  },
+  "veri:confluent-theory": {
+    "dependencies": [
+      "veri:477-confl",
+      "veri:free-confluent"
+    ],
+    "visible": true
+  },
+  "veri:law-def": {
+    "dependencies": [
+      "veri:push",
+      "veri:derivation-def",
+      "veri:models-def",
+      "veri:equiv"
+    ],
+    "visible": true
+  },
+  "veri:477-confl": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:free-confluent": {
+    "dependencies": [
+      "veri:confluent-anti-impl"
+    ],
+    "visible": true
+  },
+  "veri:derivation-def": {
+    "dependencies": [
+      "veri:sound-complete"
+    ],
+    "visible": true
+  },
+  "veri:models-def": {
+    "dependencies": [
+      "veri:5093-nontrivial",
+      "veri:sound-complete",
+      "veri:non_imp_3994_3588_thm",
+      "veri:finite_imp_3994_3588",
+      "veri:non_imp_1659_4315_thm",
+      "veri:impl",
+      "veri:non_imp_1648_206_thm",
+      "veri:free-theory",
+      "veri:austin-two"
+    ],
+    "visible": true
+  },
+  "veri:equiv": {
+    "dependencies": [
+      "veri:freemag-exist"
+    ],
+    "visible": true
+  },
+  "veri:eq1": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq854": {
+    "dependencies": [
+      "veri:irred-desc"
+    ],
+    "visible": true
+  },
+  "veri:irred-desc": {
+    "dependencies": [
+      "veri:unique-factorization",
+      "veri:graph-desc"
+    ],
+    "visible": true
+  },
+  "veri:unique-factorization": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:graph-desc": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:part-sol": {
+    "dependencies": [
+      "veri:chain",
+      "veri:partial-exist"
+    ],
+    "visible": true
+  },
+  "veri:partial-exist": {
+    "dependencies": [
+      "veri:1729_refute_817"
+    ],
+    "visible": true
+  },
+  "veri:maximal": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:add-E1": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1133-1167": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1571_impl": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:greedy-iterate": {
+    "dependencies": [
+      "veri:1323-refute-2744"
+    ],
+    "visible": true
+  },
+  "veri:1323-refute-2744": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:sm-def": {
+    "dependencies": [
+      "veri:part-sol",
+      "veri:ra-defn"
+    ],
+    "visible": true
+  },
+  "veri:ra-defn": {
+    "dependencies": [
+      "veri:ra-prop"
+    ],
+    "visible": true
+  },
+  "veri:ra-prop": {
+    "dependencies": [
+      "veri:Eq1729.reduce_to_new_axioms"
+    ],
+    "visible": true
+  },
+  "veri:eq1661": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq3167": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1516-seed": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:linear-obstruction": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:l0-la": {
+    "dependencies": [
+      "veri:Eq1729.reduce_to_new_axioms"
+    ],
+    "visible": true
+  },
+  "veri:variable-impl": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq23": {
+    "dependencies": [
+      "veri:1571_impl",
+      "veri:14_implies_23"
+    ],
+    "visible": true
+  },
+  "veri:14_implies_23": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq2662": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:1076-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:op-2-677": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:bij": {
+    "dependencies": [
+      "veri:build-magma"
+    ],
+    "visible": true
+  },
+  "veri:build-magma": {
+    "dependencies": [
+      "veri:greedy-iterate"
+    ],
+    "visible": true
+  },
+  "veri:1516-ext": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:non_imp_1659_4315_thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:impl": {
+    "dependencies": [
+      "veri:constant-impl",
+      "veri:variable-impl",
+      "veri:pre-order"
+    ],
+    "visible": true
+  },
+  "veri:non_imp_1648_206_thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:free-theory": {
+    "dependencies": [
+      "veri:freemag-exist"
+    ],
+    "visible": true
+  },
+  "veri:austin-two": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:pre-order": {
+    "dependencies": [
+      "veri:duality",
+      "veri:maximal",
+      "veri:minimal"
+    ],
+    "visible": true
+  },
+  "veri:eq3744": {
+    "dependencies": [
+      "veri:3744_implies_3722_381"
+    ],
+    "visible": true
+  },
+  "veri:compatibility-between-magma-laws": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:rev-claim": {
+    "dependencies": [
+      "veri:1485-refutes"
+    ],
+    "visible": true
+  },
+  "veri:1485-refutes": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1323-construct": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:part-exist": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:greedy-prop": {
+    "dependencies": [
+      "veri:1485-refutes"
+    ],
+    "visible": true
+  },
+  "veri:eq6": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1689": {
+    "dependencies": [
+      "veri:1689_equiv_2"
+    ],
+    "visible": true
+  },
+  "veri:1689_equiv_2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq4315": {
+    "dependencies": [
+      "veri:non_imp_1659_4315_thm"
+    ],
+    "visible": true
+  },
+  "veri:eq345169": {
+    "dependencies": [
+      "veri:sheffer"
+    ],
+    "visible": true
+  },
+  "veri:sheffer": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:enlarge-op": {
+    "dependencies": [
+      "veri:1729_refute_817"
+    ],
+    "visible": true
+  },
+  "veri:854-1045": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq14": {
+    "dependencies": [
+      "veri:29_equiv_14",
+      "veri:14_implies_29",
+      "veri:1571_impl",
+      "veri:14_implies_23"
+    ],
+    "visible": true
+  },
+  "veri:a0000000529": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:second-ext": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:enlarge-S-induct-axioms": {
+    "dependencies": [
+      "veri:enlarge-S-induct"
+    ],
+    "visible": true
+  },
+  "veri:a0000000263": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq45": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq63": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1722-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:graph-dual": {
+    "dependencies": [
+      "veri:claim-4"
+    ],
+    "visible": true
+  },
+  "veri:claim-4": {
+    "dependencies": [
+      "veri:rev-claim"
+    ],
+    "visible": true
+  },
+  "veri:a0000000527": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:a0000000427": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq168": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:period": {
+    "dependencies": [
+      "veri:3342"
+    ],
+    "visible": true
+  },
+  "veri:3342": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:713-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:477-lemma": {
+    "dependencies": [
+      "veri:477-confl"
+    ],
+    "visible": true
+  },
+  "veri:854-equiv": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:diag": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:dupont-iter": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq5": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:minimal": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1289-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:op-prop": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1659": {
+    "dependencies": [
+      "veri:non_imp_1659_4315_thm"
+    ],
+    "visible": true
+  },
+  "veri:n-def": {
+    "dependencies": [
+      "veri:n-prop",
+      "veri:part-sol",
+      "veri:ra-defn"
+    ],
+    "visible": true
+  },
+  "veri:aux": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:non-inject": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq16": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:eq381": {
+    "dependencies": [
+      "veri:3744_implies_3722_381"
+    ],
+    "visible": true
+  },
+  "veri:eq4564": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:854-anti": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq477": {
+    "dependencies": [
+      "veri:477-confl"
+    ],
+    "visible": true
+  },
+  "veri:eq374794": {
+    "dependencies": [
+      "veri:kis-thm"
+    ],
+    "visible": true
+  },
+  "veri:kis-thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:free-854": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1571": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:partial-solution": {
+    "dependencies": [
+      "veri:iteration"
+    ],
+    "visible": true
+  },
+  "veri:73-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:63-extension": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq38": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq42": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1657": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:854-relation": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:a0000000526": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:edge-disjoint": {
+    "dependencies": [
+      "veri:906-3862"
+    ],
+    "visible": true
+  },
+  "veri:906-3862": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1648": {
+    "dependencies": [
+      "veri:non_imp_1648_206_thm"
+    ],
+    "visible": true
+  },
+  "veri:eq4522": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:free-relate": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:finite-check": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq4512": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:kis-thm2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:no-inject": {
+    "dependencies": [
+      "veri:asterix-obelix"
+    ],
+    "visible": true
+  },
+  "veri:eq2": {
+    "dependencies": [
+      "veri:953_equiv_2",
+      "veri:1689_equiv_2",
+      "veri:kis-thm",
+      "veri:kis-thm2"
+    ],
+    "visible": true
+  },
+  "veri:eq1485": {
+    "dependencies": [
+      "veri:greedy-prop",
+      "veri:1485-dual"
+    ],
+    "visible": true
+  },
+  "veri:1485-dual": {
+    "dependencies": [
+      "veri:graph-dual"
+    ],
+    "visible": true
+  },
+  "veri:ffg": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1437-thm": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq8": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:eq40": {
+    "dependencies": [
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:eq28770": {
+    "dependencies": [
+      "veri:kis-thm2"
+    ],
+    "visible": true
+  },
+  "veri:add-E2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:677-basic": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:partial-1323-sound": {
+    "dependencies": [
+      "veri:greedy-1323"
+    ],
+    "visible": true
+  },
+  "veri:greedy-1323": {
+    "dependencies": [
+      "veri:greedy-iterate"
+    ],
+    "visible": true
+  },
+  "veri:eq206": {
+    "dependencies": [
+      "veri:non_imp_1648_206_thm"
+    ],
+    "visible": true
+  },
+  "veri:natural-central-groupoid": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:a0000000006": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq1701": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:axiom-b": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:854-413": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq39": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq4513": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq26302": {
+    "dependencies": [
+      "veri:natural-central-groupoid"
+    ],
+    "visible": true
+  },
+  "veri:fundamental-property-of-invariants": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq43": {
+    "dependencies": [
+      "veri:387_implies_43",
+      "veri:1571_impl"
+    ],
+    "visible": true
+  },
+  "veri:a0000000523": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1167-1096": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:magma-def": {
+    "dependencies": [
+      "veri:eq4582",
+      "veri:eq5093",
+      "veri:eq46",
+      "veri:eq4579",
+      "veri:eq3588",
+      "veri:eq3722",
+      "veri:eq953",
+      "veri:eq1491",
+      "veri:eq7",
+      "veri:eq387",
+      "veri:free-magma-def",
+      "veri:eq1",
+      "veri:eq854",
+      "veri:eq1661",
+      "veri:eq3167",
+      "veri:eq23",
+      "veri:eq2662",
+      "veri:eq3744",
+      "veri:eq6",
+      "veri:eq1689",
+      "veri:eq4315",
+      "veri:eq345169",
+      "veri:eq14",
+      "veri:eq45",
+      "veri:eq63",
+      "veri:eq168",
+      "veri:eq5",
+      "veri:eq1659",
+      "veri:eq16",
+      "veri:eq381",
+      "veri:eq4564",
+      "veri:eq477",
+      "veri:eq374794",
+      "veri:eq1571",
+      "veri:eq38",
+      "veri:eq42",
+      "veri:eq1657",
+      "veri:eq1648",
+      "veri:eq4522",
+      "veri:eq4512",
+      "veri:eq2",
+      "veri:eq1485",
+      "veri:eq8",
+      "veri:eq40",
+      "veri:eq28770",
+      "veri:eq206",
+      "veri:eq1701",
+      "veri:eq39",
+      "veri:eq4513",
+      "veri:eq26302",
+      "veri:eq43",
+      "veri:eq3",
+      "veri:eq4",
+      "veri:eq3994",
+      "veri:eq41",
+      "veri:eq29",
+      "veri:eq65"
+    ],
+    "visible": true
+  },
+  "veri:eq3": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq4": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq3994": {
+    "dependencies": [
+      "veri:non_imp_3994_3588_thm",
+      "veri:finite_imp_3994_3588"
+    ],
+    "visible": true
+  },
+  "veri:eq41": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:eq29": {
+    "dependencies": [
+      "veri:29_equiv_14",
+      "veri:14_implies_29"
+    ],
+    "visible": true
+  },
+  "veri:eq65": {
+    "dependencies": [
+      "veri:a0000000189",
+      "veri:asterix-obelix-finite",
+      "veri:asterix-obelix"
+    ],
+    "visible": true
+  },
+  "veri:854-equiv-2": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:sm-1729": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:partial-1323": {
+    "dependencies": [
+      "veri:partial-1323-sound"
+    ],
+    "visible": true
+  },
+  "veri:gff": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:extension-lemma": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1441-4067-1443-3055": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:axiom-c": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:677-obey": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:1681-3877-1701-1035": {
+    "dependencies": [],
+    "visible": true
+  },
+  "veri:a0000000530": {
+    "dependencies": [],
+    "visible": true
+  }
+}
