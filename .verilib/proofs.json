@@ -1,0 +1,614 @@
+{
+  "probe:Law.MagmaLaw.implies_iff_dual": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation7": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation206": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1289.Greedy.lift": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation65": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation2662": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation16": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation42": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Magma": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.parent": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.enlarge_op": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation14_implies_Equation23": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1441.Finite.Equation1701_implies_Equation1035": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Refutation_854.Greedy.exists_extension": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:models": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:MagmaLaw.models_iff_satisfies_ι": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.SM_obeys_1729": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation40": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.N_countable": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.N_order": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1323.eq1323_if_conditions": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation5": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation43": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation387_implies_Equation43": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq906.Finite.Equation906_implies_Equation3862": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation6": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.enlarge_L₀'_multiple": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation23": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation3744": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation3522": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation2": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_1485.not_2087_2124": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.enlarge_S'_induction": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.not_817": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Completeness": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq63.Greedy.Extension.Next": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FreeMagma.elementsOfNumNodesEq_card_eq_catalan_mul_pow": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation28770": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation43": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1571": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_1485.not_3511": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation953_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.R'_axiom_iia": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation40": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FreeMagmaWithLaws": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.use_chain": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation1491": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.SM": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation2_implies_Equation1689": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Refutation_854.Greedy.Extension1.next_ok": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.enlarge_L₀'": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:derive": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1076.Greedy.lift": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation4512": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation4522": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation168": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:WeakCentralGroupoid.isGood_five": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation29": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation45": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.L'": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1441.Finite.Equation1443_implies_Equation3055": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq63.Equation63_not_implies_Equation1692": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FiniteModel.Finite.f_gff_implies_f_fgf": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation4315": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation381": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.TrivialPartialSolution": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation1689": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation46": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1722.Greedy.lift": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:RelaxedWeakCentralGroupoid.strictify": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation23": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.N": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1689_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation3722": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1648_not_implies_Equation206": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_854.not_413_1045": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:InfModel.Equation374794_not_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation953": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation4512": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_854.unique_factorization": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:InfModel.Finite.Equation5093_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation14_implies_Equation29": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1701": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1323.extend": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1323.Equation1323_not_implies_Equation2744": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1441.Finite.Equation1681_implies_Equation3877": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation2662": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:FreeMagma": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1659": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation4564": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1441.Finite.Equation1441_implies_Equation4067": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.SM_square_eq_double": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1133.Finite.Equation1167_implies_Equation1096": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1323.exists_complete_function": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation38": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_854.not_3316_3925": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq63.Greedy.exists_extension": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation39": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation41": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:LiftingMagmaFamily": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.L'_0_eq_L₀'": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation16": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1659_facts": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:InfModel.Finite.Equation3994_implies_Equation3588": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:InfModel.Finite.Equation374794_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Law.MagmaLaw.Equation1_maximal": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation4582": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation4513": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FreeMagma.EvalFreeMagmaWithLawsUniversalProperty": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation1571_implies_Equation8": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1323.op": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FiniteModel.Finite.fn_eventually_periodic'": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:WeakCentralGroupoid.dual_eqn": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation5093": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation8": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation3": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Subgraph.Equation3744_implies_Equation381": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.R'": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1661": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:InfModel.Finite.two_variable_laws": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation3744_implies_Equation3722": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation14": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation3588": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1648": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation3167": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation1657": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:FiniteModel.Finite.f_ffg_implies_f_fgf": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation4579": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation477": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.SM_square_square_eq_zero": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Law.satisfies_fin_satisfies_nat": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation63": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Sheffer.Equation345169_is_Boolean": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Law.MagmaLaw": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.PartialSolution": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Law.MagmaLaw.SameCount.derive": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Refutation_1485.not_3457": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:InfModel.Finite.Equation28770_implies_Equation2": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.enlarge_S'_induction_with_axioms": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:InfModel.Equation3994_not_implies_Equation3588": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation374794": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation4118": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Eq1729.R'_axiom_iib": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Equation4": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1133.Finite.Equation1133_implies_Equation1167": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Law.MagmaLaw.Equation2_minimal": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1323.ϕ": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:WeakCentralGroupoid.Path.def'": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Eq1729.enlarge_S'": {
+    "verified": true,
+    "status": "success"
+  },
+  "probe:Subgraph.Equation29_implies_Equation14": {
+    "verified": false,
+    "status": "sorries"
+  },
+  "probe:Equation387": {
+    "verified": false,
+    "status": "sorries"
+  }
+}

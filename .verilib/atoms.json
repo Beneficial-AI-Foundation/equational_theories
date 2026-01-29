@@ -1,0 +1,918 @@
+{
+  "probe:Equation953": {
+    "display-name": "eq953",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1722.Greedy.lift": {
+    "display-name": "1722-extension",
+    "dependencies": []
+  },
+  "probe:Refutation_854.unique_factorization": {
+    "display-name": "unique-factorization",
+    "dependencies": []
+  },
+  "probe:Equation168": {
+    "display-name": "eq168",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.enlarge_op": {
+    "display-name": "enlarge-op",
+    "dependencies": [
+      "probe:Eq1729.enlarge_S'"
+    ]
+  },
+  "probe:Eq1323.exists_complete_function": {
+    "display-name": "greedy-iterate",
+    "dependencies": [
+      "probe:Eq1323.extend",
+      "probe:Eq1323.op"
+    ]
+  },
+  "probe:Eq1441.Finite.Equation1441_implies_Equation4067": {
+    "display-name": "1441-4067-1443-3055_1",
+    "dependencies": []
+  },
+  "probe:InfModel.Equation374794_not_implies_Equation2": {
+    "display-name": "kis-thm_2",
+    "dependencies": [
+      "probe:Equation374794",
+      "probe:Equation2"
+    ]
+  },
+  "probe:Eq1441.Finite.Equation1443_implies_Equation3055": {
+    "display-name": "1441-4067-1443-3055_2",
+    "dependencies": []
+  },
+  "probe:Equation4513": {
+    "display-name": "eq4513",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.parent": {
+    "display-name": "n-def_3",
+    "dependencies": []
+  },
+  "probe:Eq1323.Equation1323_not_implies_Equation2744": {
+    "display-name": "1323-refute-2744",
+    "dependencies": [
+      "probe:Eq1323.exists_complete_function"
+    ]
+  },
+  "probe:Equation28770": {
+    "display-name": "eq28770",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension": {
+    "display-name": "greedy-prop",
+    "dependencies": [
+      "probe:Equation1491"
+    ]
+  },
+  "probe:Eq1441.Finite.Equation1701_implies_Equation1035": {
+    "display-name": "1681-3877-1701-1035_2",
+    "dependencies": []
+  },
+  "probe:Equation4": {
+    "display-name": "eq4",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.enlarge_S'_induction": {
+    "display-name": "enlarge-S-induct",
+    "dependencies": [
+      "probe:Eq1729.enlarge_L₀'_multiple",
+      "probe:Eq1729.enlarge_S'_induction_with_axioms"
+    ]
+  },
+  "probe:Eq1729.enlarge_L₀'": {
+    "display-name": "enlarge-l0",
+    "dependencies": []
+  },
+  "probe:Equation43": {
+    "display-name": "eq43",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation1491": {
+    "display-name": "eq1485",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1323.ϕ": {
+    "display-name": "bij",
+    "dependencies": []
+  },
+  "probe:Equation1657": {
+    "display-name": "eq1657",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.PartialSolution": {
+    "display-name": "part-sol",
+    "dependencies": [
+      "probe:Eq1729.SM"
+    ]
+  },
+  "probe:Eq1729.use_chain": {
+    "display-name": "chain",
+    "dependencies": [
+      "probe:Eq1729.PartialSolution"
+    ]
+  },
+  "probe:Equation14": {
+    "display-name": "eq14",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:InfModel.Finite.Equation28770_implies_Equation2": {
+    "display-name": "kis-thm2",
+    "dependencies": [
+      "probe:Equation2",
+      "probe:Equation28770"
+    ]
+  },
+  "probe:Equation2": {
+    "display-name": "eq2",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Law.MagmaLaw.Equation1_maximal": {
+    "display-name": "maximal",
+    "dependencies": []
+  },
+  "probe:Magma": {
+    "display-name": "magma-def",
+    "dependencies": []
+  },
+  "probe:Equation5": {
+    "display-name": "eq5",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.N": {
+    "display-name": "n-def_1",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation29_implies_Equation14": {
+    "display-name": "29_equiv_14",
+    "dependencies": [
+      "probe:Equation29",
+      "probe:Equation14"
+    ]
+  },
+  "probe:Equation7": {
+    "display-name": "eq7",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq63.Greedy.Extension.Next": {
+    "display-name": "extension-lemma",
+    "dependencies": []
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation3522": {
+    "display-name": "3342_1",
+    "dependencies": [
+      "probe:FiniteModel.Finite.fn_eventually_periodic'"
+    ]
+  },
+  "probe:InfModel.Finite.Equation3994_implies_Equation3588": {
+    "display-name": "finite_imp_3994_3588",
+    "dependencies": [
+      "probe:Equation3588",
+      "probe:models"
+    ]
+  },
+  "probe:LiftingMagmaFamily": {
+    "display-name": "lifting-magma-family",
+    "dependencies": []
+  },
+  "probe:FiniteModel.Finite.f_ffg_implies_f_fgf": {
+    "display-name": "ffg",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation1571_implies_Equation8": {
+    "display-name": "1571_impl_4",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Refutation_1485.not_2087_2124": {
+    "display-name": "1485-refutes_3",
+    "dependencies": [
+      "probe:Equation1491",
+      "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension",
+      "probe:RelaxedWeakCentralGroupoid.strictify"
+    ]
+  },
+  "probe:Equation1689": {
+    "display-name": "eq1689",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation29": {
+    "display-name": "eq29",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation6": {
+    "display-name": "eq6",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1323.eq1323_if_conditions": {
+    "display-name": "1323-construct",
+    "dependencies": []
+  },
+  "probe:Equation42": {
+    "display-name": "eq42",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1076.Greedy.lift": {
+    "display-name": "1076-extension",
+    "dependencies": []
+  },
+  "probe:Equation39": {
+    "display-name": "eq39",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:WeakCentralGroupoid.dual_eqn": {
+    "display-name": "1485-dual",
+    "dependencies": [
+      "probe:Equation1491"
+    ]
+  },
+  "probe:Eq1729.N_order": {
+    "display-name": "n-def_2",
+    "dependencies": []
+  },
+  "probe:MagmaLaw.models_iff_satisfies_ι": {
+    "display-name": "lifting-magma-basis-evaluation",
+    "dependencies": []
+  },
+  "probe:Equation8": {
+    "display-name": "eq8",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation3167": {
+    "display-name": "eq3167",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.R'_axiom_iia": {
+    "display-name": "ra-prop_1",
+    "dependencies": [
+      "probe:Eq1729.R'"
+    ]
+  },
+  "probe:Eq63.Greedy.exists_extension": {
+    "display-name": "dupont-iter",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation3744_implies_Equation381": {
+    "display-name": "3744_implies_3722_381_2",
+    "dependencies": [
+      "probe:Equation3744",
+      "probe:Equation3722",
+      "probe:Equation381"
+    ]
+  },
+  "probe:Subgraph.Equation14_implies_Equation23": {
+    "display-name": "14_implies_23",
+    "dependencies": [
+      "probe:Equation23",
+      "probe:Equation14"
+    ]
+  },
+  "probe:Equation4579": {
+    "display-name": "eq4579",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.enlarge_S'": {
+    "display-name": "enlarge-S",
+    "dependencies": [
+      "probe:Eq1729.enlarge_S'_induction"
+    ]
+  },
+  "probe:Subgraph.Equation1571_implies_Equation40": {
+    "display-name": "1571_impl_2",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Eq1729.R'_axiom_iib": {
+    "display-name": "ra-prop_2",
+    "dependencies": [
+      "probe:Eq1729.R'"
+    ]
+  },
+  "probe:Equation3588": {
+    "display-name": "eq3588",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Subgraph.Equation1571_implies_Equation23": {
+    "display-name": "1571_impl_3",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Equation4522": {
+    "display-name": "eq4522",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:FiniteModel.Finite.f_gff_implies_f_fgf": {
+    "display-name": "gff",
+    "dependencies": []
+  },
+  "probe:Law.MagmaLaw": {
+    "display-name": "law-def",
+    "dependencies": []
+  },
+  "probe:FreeMagma": {
+    "display-name": "free-magma-def",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Refutation_854.not_413_1045": {
+    "display-name": "854-413",
+    "dependencies": []
+  },
+  "probe:Equation1648_not_implies_Equation206": {
+    "display-name": "non_imp_1648_206_thm",
+    "dependencies": [
+      "probe:Equation1648",
+      "probe:Equation206",
+      "probe:models"
+    ]
+  },
+  "probe:Equation381": {
+    "display-name": "eq381",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.SM": {
+    "display-name": "sm-def",
+    "dependencies": []
+  },
+  "probe:Eq1729.TrivialPartialSolution": {
+    "display-name": "partial-exist",
+    "dependencies": [
+      "probe:Eq1729.PartialSolution"
+    ]
+  },
+  "probe:derive": {
+    "display-name": "derivation-def",
+    "dependencies": [
+      "probe:Law.MagmaLaw"
+    ]
+  },
+  "probe:InfModel.Equation3994_not_implies_Equation3588": {
+    "display-name": "non_imp_3994_3588_thm",
+    "dependencies": [
+      "probe:Equation3588",
+      "probe:models"
+    ]
+  },
+  "probe:Sheffer.Equation345169_is_Boolean": {
+    "display-name": "sheffer",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation1689_implies_Equation2": {
+    "display-name": "1689_equiv_2_1",
+    "dependencies": [
+      "probe:Equation1689",
+      "probe:Equation2"
+    ]
+  },
+  "probe:FreeMagma.elementsOfNumNodesEq_card_eq_catalan_mul_pow": {
+    "display-name": "a0000000010",
+    "dependencies": []
+  },
+  "probe:Equation206": {
+    "display-name": "eq206",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Refutation_854.Greedy.exists_extension": {
+    "display-name": "extend-854",
+    "dependencies": []
+  },
+  "probe:Equation16": {
+    "display-name": "eq16",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Law.MagmaLaw.SameCount.derive": {
+    "display-name": "variable-impl",
+    "dependencies": []
+  },
+  "probe:Eq1323.op": {
+    "display-name": "build-magma",
+    "dependencies": [
+      "probe:Eq1323.ϕ"
+    ]
+  },
+  "probe:Refutation_1485.not_3511": {
+    "display-name": "1485-refutes_2",
+    "dependencies": [
+      "probe:Equation1491",
+      "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension",
+      "probe:RelaxedWeakCentralGroupoid.strictify"
+    ]
+  },
+  "probe:Eq63.Equation63_not_implies_Equation1692": {
+    "display-name": "non-inject",
+    "dependencies": []
+  },
+  "probe:Equation374794": {
+    "display-name": "eq374794",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation45": {
+    "display-name": "eq45",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation40": {
+    "display-name": "eq40",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation1": {
+    "display-name": "eq1",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation23": {
+    "display-name": "eq23",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation1701": {
+    "display-name": "eq1701",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation1659": {
+    "display-name": "eq1659",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation1661": {
+    "display-name": "eq1661",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:FreeMagma.EvalFreeMagmaWithLawsUniversalProperty": {
+    "display-name": "freemag-exist",
+    "dependencies": [
+      "probe:FreeMagmaWithLaws"
+    ]
+  },
+  "probe:Refutation_854.not_3316_3925": {
+    "display-name": "854-anti",
+    "dependencies": []
+  },
+  "probe:Eq1729.R'": {
+    "display-name": "ra-defn",
+    "dependencies": [
+      "probe:Eq1729.SM"
+    ]
+  },
+  "probe:Eq1729.enlarge_S'_induction_with_axioms": {
+    "display-name": "enlarge-S-induct-axioms",
+    "dependencies": []
+  },
+  "probe:Equation3744": {
+    "display-name": "eq3744",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation3722": {
+    "display-name": "eq3722",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.N_countable": {
+    "display-name": "n-prop_1",
+    "dependencies": []
+  },
+  "probe:InfModel.Finite.Equation5093_implies_Equation2": {
+    "display-name": "5093-nontrivial",
+    "dependencies": [
+      "probe:Equation5093",
+      "probe:models"
+    ]
+  },
+  "probe:Eq1133.Finite.Equation1167_implies_Equation1096": {
+    "display-name": "1167-1096",
+    "dependencies": []
+  },
+  "probe:Equation4315": {
+    "display-name": "eq4315",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation63": {
+    "display-name": "eq63",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:models": {
+    "display-name": "models-def",
+    "dependencies": [
+      "probe:Law.MagmaLaw"
+    ]
+  },
+  "probe:Equation1648": {
+    "display-name": "eq1648",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:InfModel.Finite.Equation374794_implies_Equation2": {
+    "display-name": "kis-thm_1",
+    "dependencies": [
+      "probe:Equation374794",
+      "probe:Equation2"
+    ]
+  },
+  "probe:Subgraph.Equation1571_implies_Equation2662": {
+    "display-name": "1571_impl_1",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Eq1729.SM_square_eq_double": {
+    "display-name": "sm-1729_1",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation1571_implies_Equation16": {
+    "display-name": "1571_impl_5",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Equation2662": {
+    "display-name": "eq2662",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:InfModel.Finite.two_variable_laws": {
+    "display-name": "austin-two",
+    "dependencies": [
+      "probe:models"
+    ]
+  },
+  "probe:Equation3": {
+    "display-name": "eq3",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1441.Finite.Equation1681_implies_Equation3877": {
+    "display-name": "1681-3877-1701-1035_1",
+    "dependencies": []
+  },
+  "probe:Eq1729.L'": {
+    "display-name": "l0-la_1",
+    "dependencies": []
+  },
+  "probe:Equation1571": {
+    "display-name": "eq1571",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.enlarge_L₀'_multiple": {
+    "display-name": "enlarge-l0-many",
+    "dependencies": [
+      "probe:Eq1729.enlarge_L₀'"
+    ]
+  },
+  "probe:Subgraph.Equation953_implies_Equation2": {
+    "display-name": "953_equiv_2",
+    "dependencies": [
+      "probe:Equation953",
+      "probe:Equation2"
+    ]
+  },
+  "probe:Subgraph.Equation3744_implies_Equation3722": {
+    "display-name": "3744_implies_3722_381_1",
+    "dependencies": [
+      "probe:Equation3744",
+      "probe:Equation3722",
+      "probe:Equation381"
+    ]
+  },
+  "probe:Refutation_1485.not_3457": {
+    "display-name": "1485-refutes_1",
+    "dependencies": [
+      "probe:Equation1491",
+      "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension",
+      "probe:RelaxedWeakCentralGroupoid.strictify"
+    ]
+  },
+  "probe:Equation5093": {
+    "display-name": "eq5093",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Subgraph.Equation1571_implies_Equation43": {
+    "display-name": "1571_impl_6",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:Equation65": {
+    "display-name": "eq65",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation4582": {
+    "display-name": "eq4582",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Law.satisfies_fin_satisfies_nat": {
+    "display-name": "compatibility-between-magma-laws",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation2_implies_Equation1689": {
+    "display-name": "1689_equiv_2_2",
+    "dependencies": [
+      "probe:Equation1689",
+      "probe:Equation2"
+    ]
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation4118": {
+    "display-name": "3342_2",
+    "dependencies": [
+      "probe:FiniteModel.Finite.fn_eventually_periodic'"
+    ]
+  },
+  "probe:Equation38": {
+    "display-name": "eq38",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.SM_square_square_eq_zero": {
+    "display-name": "sm-1729_2",
+    "dependencies": []
+  },
+  "probe:Completeness": {
+    "display-name": "sound-complete",
+    "dependencies": [
+      "probe:models",
+      "probe:derive"
+    ]
+  },
+  "probe:Eq1133.Finite.Equation1133_implies_Equation1167": {
+    "display-name": "1133-1167",
+    "dependencies": []
+  },
+  "probe:Eq1323.extend": {
+    "display-name": "greedy-1323",
+    "dependencies": []
+  },
+  "probe:Law.MagmaLaw.Equation2_minimal": {
+    "display-name": "minimal",
+    "dependencies": []
+  },
+  "probe:Equation4512": {
+    "display-name": "eq4512",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation41": {
+    "display-name": "eq41",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Equation387": {
+    "display-name": "eq387",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:FreeMagmaWithLaws": {
+    "display-name": "free-theory",
+    "dependencies": [
+      "probe:models"
+    ]
+  },
+  "probe:Subgraph.Equation387_implies_Equation43": {
+    "display-name": "387_implies_43",
+    "dependencies": [
+      "probe:Equation387",
+      "probe:Equation43"
+    ]
+  },
+  "probe:FiniteModel.Finite.fn_eventually_periodic'": {
+    "display-name": "period",
+    "dependencies": []
+  },
+  "probe:Equation4564": {
+    "display-name": "eq4564",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:WeakCentralGroupoid.Path.def'": {
+    "display-name": "graph-dual",
+    "dependencies": [
+      "probe:Equation1491",
+      "probe:WeakCentralGroupoid.dual_eqn"
+    ]
+  },
+  "probe:Refutation_854.Greedy.Extension1.next_ok": {
+    "display-name": "854-extend",
+    "dependencies": []
+  },
+  "probe:Equation477": {
+    "display-name": "eq477",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:Eq1729.not_817": {
+    "display-name": "1729_refute_817",
+    "dependencies": [
+      "probe:Eq1729.TrivialPartialSolution",
+      "probe:Eq1729.enlarge_L₀'",
+      "probe:Eq1729.enlarge_S'",
+      "probe:Eq1729.enlarge_op",
+      "probe:Eq1729.use_chain"
+    ]
+  },
+  "probe:Eq1729.L'_0_eq_L₀'": {
+    "display-name": "l0-la_2",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation14_implies_Equation29": {
+    "display-name": "14_implies_29",
+    "dependencies": [
+      "probe:Equation29",
+      "probe:Equation14"
+    ]
+  },
+  "probe:Equation46": {
+    "display-name": "eq46",
+    "dependencies": [
+      "probe:Magma"
+    ]
+  },
+  "probe:WeakCentralGroupoid.isGood_five": {
+    "display-name": "claim-4",
+    "dependencies": [
+      "probe:Equation1491",
+      "probe:WeakCentralGroupoid.Path.def'"
+    ]
+  },
+  "probe:Eq906.Finite.Equation906_implies_Equation3862": {
+    "display-name": "906-3862",
+    "dependencies": []
+  },
+  "probe:Eq1289.Greedy.lift": {
+    "display-name": "1289-extension",
+    "dependencies": []
+  },
+  "probe:Subgraph.Equation1571_implies_Equation4512": {
+    "display-name": "1571_impl_7",
+    "dependencies": [
+      "probe:Equation1571",
+      "probe:Equation2662",
+      "probe:Equation40",
+      "probe:Equation23",
+      "probe:Equation8",
+      "probe:Equation16",
+      "probe:Equation14",
+      "probe:Equation43",
+      "probe:Equation4512"
+    ]
+  },
+  "probe:RelaxedWeakCentralGroupoid.strictify": {
+    "display-name": "rev-claim",
+    "dependencies": [
+      "probe:WeakCentralGroupoid.isGood_five"
+    ]
+  },
+  "probe:Equation1659_facts": {
+    "display-name": "non_imp_1659_4315_thm",
+    "dependencies": [
+      "probe:Equation1659",
+      "probe:Equation4315",
+      "probe:models"
+    ]
+  },
+  "probe:Eq1729.SM_obeys_1729": {
+    "display-name": "sm-1729_3",
+    "dependencies": []
+  },
+  "probe:Law.MagmaLaw.implies_iff_dual": {
+    "display-name": "duality",
+    "dependencies": []
+  }
+}

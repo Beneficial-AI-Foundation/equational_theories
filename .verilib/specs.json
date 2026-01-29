@@ -1,0 +1,461 @@
+{
+  "probe:Law.satisfies_fin_satisfies_nat": {
+    "specified": true
+  },
+  "probe:Eq1729.not_817": {
+    "specified": true
+  },
+  "probe:InfModel.Finite.Equation374794_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Equation65": {
+    "specified": true
+  },
+  "probe:Eq1729.use_chain": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation40": {
+    "specified": true
+  },
+  "probe:Equation14": {
+    "specified": true
+  },
+  "probe:Equation63": {
+    "specified": true
+  },
+  "probe:LiftingMagmaFamily": {
+    "specified": true
+  },
+  "probe:Equation3588": {
+    "specified": true
+  },
+  "probe:Equation28770": {
+    "specified": true
+  },
+  "probe:Eq1729.R'_axiom_iib": {
+    "specified": true
+  },
+  "probe:Eq1729.SM_square_square_eq_zero": {
+    "specified": true
+  },
+  "probe:Equation1659": {
+    "specified": true
+  },
+  "probe:Equation4522": {
+    "specified": true
+  },
+  "probe:Eq1729.R'_axiom_iia": {
+    "specified": true
+  },
+  "probe:FiniteModel.Finite.f_gff_implies_f_fgf": {
+    "specified": true
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation3522": {
+    "specified": true
+  },
+  "probe:Sheffer.Equation345169_is_Boolean": {
+    "specified": true
+  },
+  "probe:FreeMagma.elementsOfNumNodesEq_card_eq_catalan_mul_pow": {
+    "specified": true
+  },
+  "probe:Equation5093": {
+    "specified": true
+  },
+  "probe:Equation6": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation2_implies_Equation1689": {
+    "specified": true
+  },
+  "probe:FreeMagma.EvalFreeMagmaWithLawsUniversalProperty": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_L₀'_multiple": {
+    "specified": true
+  },
+  "probe:Eq1133.Finite.Equation1133_implies_Equation1167": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation3744_implies_Equation381": {
+    "specified": true
+  },
+  "probe:Equation39": {
+    "specified": true
+  },
+  "probe:WeakCentralGroupoid.isGood_five": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1689_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Equation206": {
+    "specified": true
+  },
+  "probe:Equation4": {
+    "specified": true
+  },
+  "probe:Equation3722": {
+    "specified": true
+  },
+  "probe:FiniteModel.Finite.f_ffg_implies_f_fgf": {
+    "specified": true
+  },
+  "probe:Eq1729.PartialSolution": {
+    "specified": true
+  },
+  "probe:Eq63.Greedy.Extension.Next": {
+    "specified": true
+  },
+  "probe:Equation1689": {
+    "specified": true
+  },
+  "probe:Eq1323.Equation1323_not_implies_Equation2744": {
+    "specified": true
+  },
+  "probe:Equation1701": {
+    "specified": true
+  },
+  "probe:RelaxedWeakCentralGroupoid.strictify": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation8": {
+    "specified": true
+  },
+  "probe:Eq1729.SM": {
+    "specified": true
+  },
+  "probe:Eq1323.ϕ": {
+    "specified": true
+  },
+  "probe:Eq1323.op": {
+    "specified": true
+  },
+  "probe:Equation38": {
+    "specified": true
+  },
+  "probe:Refutation_1485.not_3511": {
+    "specified": true
+  },
+  "probe:Eq1729.L'": {
+    "specified": true
+  },
+  "probe:FiniteModel.Finite.fn_eventually_periodic'": {
+    "specified": true
+  },
+  "probe:Eq1076.Greedy.lift": {
+    "specified": true
+  },
+  "probe:Equation7": {
+    "specified": true
+  },
+  "probe:Law.MagmaLaw.implies_iff_dual": {
+    "specified": true
+  },
+  "probe:Refutation_854.unique_factorization": {
+    "specified": true
+  },
+  "probe:Eq1729.N_countable": {
+    "specified": true
+  },
+  "probe:Equation1648_not_implies_Equation206": {
+    "specified": true
+  },
+  "probe:Eq1323.exists_complete_function": {
+    "specified": true
+  },
+  "probe:Equation4582": {
+    "specified": true
+  },
+  "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension": {
+    "specified": true
+  },
+  "probe:Refutation_854.Greedy.exists_extension": {
+    "specified": true
+  },
+  "probe:derive": {
+    "specified": true
+  },
+  "probe:models": {
+    "specified": true
+  },
+  "probe:Equation3": {
+    "specified": true
+  },
+  "probe:Equation4512": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation387_implies_Equation43": {
+    "specified": true
+  },
+  "probe:Equation2": {
+    "specified": true
+  },
+  "probe:Equation1648": {
+    "specified": true
+  },
+  "probe:Equation29": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_S'": {
+    "specified": true
+  },
+  "probe:Law.MagmaLaw.SameCount.derive": {
+    "specified": true
+  },
+  "probe:Equation4579": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation3744_implies_Equation3722": {
+    "specified": true
+  },
+  "probe:Eq1729.SM_square_eq_double": {
+    "specified": true
+  },
+  "probe:Equation41": {
+    "specified": true
+  },
+  "probe:Equation2662": {
+    "specified": true
+  },
+  "probe:WeakCentralGroupoid.Path.def'": {
+    "specified": true
+  },
+  "probe:InfModel.Finite.Equation5093_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Equation1661": {
+    "specified": true
+  },
+  "probe:InfModel.Finite.Equation3994_implies_Equation3588": {
+    "specified": true
+  },
+  "probe:Refutation_1485.not_3457": {
+    "specified": true
+  },
+  "probe:Equation1": {
+    "specified": true
+  },
+  "probe:Equation477": {
+    "specified": true
+  },
+  "probe:Law.MagmaLaw.Equation1_maximal": {
+    "specified": true
+  },
+  "probe:InfModel.Equation374794_not_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Equation1571": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation14_implies_Equation23": {
+    "specified": true
+  },
+  "probe:Eq1729.SM_obeys_1729": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation14_implies_Equation29": {
+    "specified": true
+  },
+  "probe:InfModel.Finite.two_variable_laws": {
+    "specified": true
+  },
+  "probe:Eq1323.eq1323_if_conditions": {
+    "specified": true
+  },
+  "probe:FreeMagmaWithLaws": {
+    "specified": true
+  },
+  "probe:Equation46": {
+    "specified": true
+  },
+  "probe:Equation387": {
+    "specified": true
+  },
+  "probe:Magma": {
+    "specified": true
+  },
+  "probe:Equation1491": {
+    "specified": true
+  },
+  "probe:Equation5": {
+    "specified": true
+  },
+  "probe:Equation4513": {
+    "specified": true
+  },
+  "probe:Refutation_1485.not_2087_2124": {
+    "specified": true
+  },
+  "probe:Eq1441.Finite.Equation1443_implies_Equation3055": {
+    "specified": true
+  },
+  "probe:Eq906.Finite.Equation906_implies_Equation3862": {
+    "specified": true
+  },
+  "probe:Eq1441.Finite.Equation1701_implies_Equation1035": {
+    "specified": true
+  },
+  "probe:MagmaLaw.models_iff_satisfies_ι": {
+    "specified": true
+  },
+  "probe:Equation374794": {
+    "specified": true
+  },
+  "probe:Equation23": {
+    "specified": true
+  },
+  "probe:Equation168": {
+    "specified": true
+  },
+  "probe:Eq1729.N": {
+    "specified": true
+  },
+  "probe:Eq63.Greedy.exists_extension": {
+    "specified": true
+  },
+  "probe:Eq1323.extend": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_S'_induction_with_axioms": {
+    "specified": true
+  },
+  "probe:Completeness": {
+    "specified": true
+  },
+  "probe:Eq1722.Greedy.lift": {
+    "specified": true
+  },
+  "probe:Equation4315": {
+    "specified": true
+  },
+  "probe:Eq3342.Finite.Equation3342_implies_Equation4118": {
+    "specified": true
+  },
+  "probe:Equation953": {
+    "specified": true
+  },
+  "probe:Eq1729.L'_0_eq_L₀'": {
+    "specified": true
+  },
+  "probe:InfModel.Equation3994_not_implies_Equation3588": {
+    "specified": true
+  },
+  "probe:InfModel.Finite.Equation28770_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Equation381": {
+    "specified": true
+  },
+  "probe:Eq63.Equation63_not_implies_Equation1692": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_S'_induction": {
+    "specified": true
+  },
+  "probe:Equation3167": {
+    "specified": true
+  },
+  "probe:Equation16": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_op": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation43": {
+    "specified": true
+  },
+  "probe:Eq1289.Greedy.lift": {
+    "specified": true
+  },
+  "probe:Law.MagmaLaw": {
+    "specified": true
+  },
+  "probe:Refutation_854.not_413_1045": {
+    "specified": true
+  },
+  "probe:Eq1729.enlarge_L₀'": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation29_implies_Equation14": {
+    "specified": true
+  },
+  "probe:Refutation_854.not_3316_3925": {
+    "specified": true
+  },
+  "probe:Eq1133.Finite.Equation1167_implies_Equation1096": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation953_implies_Equation2": {
+    "specified": true
+  },
+  "probe:Eq1441.Finite.Equation1441_implies_Equation4067": {
+    "specified": true
+  },
+  "probe:Equation45": {
+    "specified": true
+  },
+  "probe:Law.MagmaLaw.Equation2_minimal": {
+    "specified": true
+  },
+  "probe:Equation42": {
+    "specified": true
+  },
+  "probe:Eq1729.parent": {
+    "specified": true
+  },
+  "probe:Eq1729.R'": {
+    "specified": true
+  },
+  "probe:Eq1729.TrivialPartialSolution": {
+    "specified": true
+  },
+  "probe:Equation4564": {
+    "specified": true
+  },
+  "probe:Equation1659_facts": {
+    "specified": true
+  },
+  "probe:Equation8": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation2662": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation23": {
+    "specified": true
+  },
+  "probe:Equation3744": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation16": {
+    "specified": true
+  },
+  "probe:Equation43": {
+    "specified": true
+  },
+  "probe:FreeMagma": {
+    "specified": true
+  },
+  "probe:WeakCentralGroupoid.dual_eqn": {
+    "specified": true
+  },
+  "probe:Equation1657": {
+    "specified": true
+  },
+  "probe:Eq1729.N_order": {
+    "specified": true
+  },
+  "probe:Equation40": {
+    "specified": true
+  },
+  "probe:Eq1441.Finite.Equation1681_implies_Equation3877": {
+    "specified": true
+  },
+  "probe:Refutation_854.Greedy.Extension1.next_ok": {
+    "specified": true
+  },
+  "probe:Subgraph.Equation1571_implies_Equation4512": {
+    "specified": true
+  }
+}

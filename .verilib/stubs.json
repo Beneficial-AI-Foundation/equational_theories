@@ -1,3442 +1,13 @@
 {
-  "chapter/equations.tex/eq43": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 106,
-      "lines-end": 108
-    },
-    "labels": [
-      "eq43"
-    ],
-    "code-name": "Equation43",
+  "chapter/1729.tex/l0-la_1": {
+    "label": "l0-la_1",
+    "code-name": "probe:Eq1729.L'",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_models.tex/finite_imp_3994_3588": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 113,
-      "lines-end": 116
-    },
-    "stub-proof": {
-      "lines-start": 118,
-      "lines-end": 124
-    },
-    "labels": [
-      "finite_imp_3994_3588_thm",
-      "finite_imp_3994_3588"
-    ],
-    "code-name": "InfModel.Finite.Equation3994_implies_Equation3588",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq3994",
-      "eq3588",
-      "models-def"
-    ],
     "proof-ok": true
-  },
-  "chapter/rewriting.tex/a0000000005": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 84,
-      "lines-end": 86
-    },
-    "labels": [
-      "a0000000005"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/weak_central_groupoids.tex/1485-refutes": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
-    "stub-spec": {
-      "lines-start": 99,
-      "lines-end": 107
-    },
-    "stub-proof": {
-      "lines-start": 109,
-      "lines-end": 135
-    },
-    "labels": [
-      "1485-refutes"
-    ],
-    "code-name": "Refutation_1485.not_3457",
-    "lean-names": [
-      "Refutation_1485.not_3457",
-      "Refutation_1485.not_3511",
-      "Refutation_1485.not_2087_2124"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1485"
-    ],
-    "proof-dependencies": [
-      "greedy-prop",
-      "rev-claim"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/dupont-iter": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 847,
-      "lines-end": 848
-    },
-    "labels": [
-      "dupont-iter"
-    ],
-    "code-name": "Eq63.Greedy.exists_extension",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1729.tex/enlarge-S-induct-axioms": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 218,
-      "lines-end": 225
-    },
-    "stub-proof": {
-      "lines-start": 227,
-      "lines-end": 250
-    },
-    "labels": [
-      "enlarge-S-induct-axioms"
-    ],
-    "code-name": "Eq1729.enlarge_S'_induction_with_axioms",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/abstract_nonsense.tex/confluent-anti-impl": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 126,
-      "lines-end": 128
-    },
-    "stub-proof": {
-      "lines-start": 130,
-      "lines-end": 132
-    },
-    "labels": [
-      "confluent-anti-impl"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "models-def"
-    ],
-    "proof-dependencies": [
-      "free-confluent",
-      "anti-impl"
-    ]
-  },
-  "chapter/equations.tex/eq39": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 82,
-      "lines-end": 84
-    },
-    "labels": [
-      "eq39"
-    ],
-    "code-name": "Equation39",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1323.tex/partial-1323-sound": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 91,
-      "lines-end": 96
-    },
-    "stub-proof": {
-      "lines-start": 98,
-      "lines-end": 99
-    },
-    "labels": [
-      "partial-1323-sound"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "partial-1323"
-    ]
-  },
-  "chapter/equations.tex/eq40": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 88,
-      "lines-end": 90
-    },
-    "labels": [
-      "eq40"
-    ],
-    "code-name": "Equation40",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/mag": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 17,
-      "lines-end": 38
-    },
-    "stub-proof": {
-      "lines-start": 40,
-      "lines-end": 52
-    },
-    "labels": [
-      "mag"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/854-relation": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 264,
-      "lines-end": 272
-    },
-    "stub-proof": {
-      "lines-start": 274,
-      "lines-end": 287
-    },
-    "labels": [
-      "854-relation"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_models.tex/1133-1167": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 165,
-      "lines-end": 170
-    },
-    "stub-proof": {
-      "lines-start": 172,
-      "lines-end": 187
-    },
-    "labels": [
-      "1133-1167"
-    ],
-    "code-name": "Eq1133.Finite.Equation1133_implies_Equation1167",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/854.tex/free-relate": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 291,
-      "lines-end": 300
-    },
-    "labels": [
-      "free-relate"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/854-equiv-2": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 150,
-      "lines-end": 157
-    },
-    "stub-proof": {
-      "lines-start": 159,
-      "lines-end": 168
-    },
-    "labels": [
-      "854-equiv-2"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/677.tex/op-prop": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 130,
-      "lines-end": 135
-    },
-    "labels": [
-      "op-prop"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/677.tex/677-obey": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 150,
-      "lines-end": 151
-    },
-    "stub-proof": {
-      "lines-start": 153,
-      "lines-end": 154
-    },
-    "labels": [
-      "677-obey"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/law-count-sym": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 171,
-      "lines-end": 177
-    },
-    "stub-proof": {
-      "lines-start": 179,
-      "lines-end": 181
-    },
-    "labels": [
-      "law-count-sym"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "push"
-    ]
-  },
-  "chapter/general_implications.tex/minimal": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 37,
-      "lines-end": 39
-    },
-    "stub-proof": {
-      "lines-start": 41,
-      "lines-end": 43
-    },
-    "labels": [
-      "minimal"
-    ],
-    "code-name": "Law.MagmaLaw.Equation2_minimal",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "pre-order"
-    ]
-  },
-  "chapter/854.tex/free-854": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 310,
-      "lines-end": 311
-    },
-    "stub-proof": {
-      "lines-start": 313,
-      "lines-end": 377
-    },
-    "labels": [
-      "free-854"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq5": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 32,
-      "lines-end": 34
-    },
-    "labels": [
-      "eq5"
-    ],
-    "code-name": "Equation5",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1323.tex/1323-construct": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 11,
-      "lines-end": 20
-    },
-    "stub-proof": {
-      "lines-start": 22,
-      "lines-end": 23
-    },
-    "labels": [
-      "1323-construct"
-    ],
-    "code-name": "Eq1323.eq1323_if_conditions",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/854-extend": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 195,
-      "lines-end": 196
-    },
-    "stub-proof": {
-      "lines-start": 198,
-      "lines-end": 227
-    },
-    "labels": [
-      "854-extend"
-    ],
-    "code-name": "Refutation_854.Greedy.Extension1.next_ok",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1516.tex/axiom-b": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 147,
-      "lines-end": 148
-    },
-    "stub-proof": {
-      "lines-start": 150,
-      "lines-end": 153
-    },
-    "labels": [
-      "axiom-b"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq3": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 20,
-      "lines-end": 22
-    },
-    "labels": [
-      "eq3"
-    ],
-    "code-name": "Equation3",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/rewriting.tex/a0000000004": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 56,
-      "lines-end": 61
-    },
-    "labels": [
-      "a0000000004"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1648": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 197,
-      "lines-end": 199
-    },
-    "labels": [
-      "eq1648"
-    ],
-    "code-name": "Equation1648",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/854.tex/854-1045": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 248,
-      "lines-end": 249
-    },
-    "stub-proof": {
-      "lines-start": 251,
-      "lines-end": 254
-    },
-    "labels": [
-      "854-1045"
-    ],
-    "code-name": "Refutation_854.not_413_1045",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq953": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 173,
-      "lines-end": 175
-    },
-    "labels": [
-      "eq953"
-    ],
-    "code-name": "Equation953",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/implications.tex/387_implies_43": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 5,
-      "lines-end": 6
-    },
-    "stub-proof": {
-      "lines-start": 8,
-      "lines-end": 27
-    },
-    "labels": [
-      "387_implies_43"
-    ],
-    "code-name": "Subgraph.Equation387_implies_Equation43",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq387",
-      "eq43"
-    ],
-    "proof-ok": true
-  },
-  "chapter/equations.tex/eq26302": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 318,
-      "lines-end": 322
-    },
-    "labels": [
-      "eq26302"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/iteration": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 71,
-      "lines-end": 72
-    },
-    "stub-proof": {
-      "lines-start": 74,
-      "lines-end": 145
-    },
-    "labels": [
-      "iteration"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "partial-solution"
-    ]
-  },
-  "chapter/infinite_models.tex/gff": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 97,
-      "lines-end": 98
-    },
-    "stub-proof": {
-      "lines-start": 100,
-      "lines-end": 101
-    },
-    "labels": [
-      "gff"
-    ],
-    "code-name": "FiniteModel.Finite.f_gff_implies_f_fgf",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/rewriting.tex/a0000000006": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 90,
-      "lines-end": 92
-    },
-    "labels": [
-      "a0000000006"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/law-count-triv": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 191,
-      "lines-end": 197
-    },
-    "stub-proof": {
-      "lines-start": 199,
-      "lines-end": 201
-    },
-    "labels": [
-      "law-count-triv"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "law-count-sym"
-    ]
-  },
-  "chapter/1323.tex/bij": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 27,
-      "lines-end": 30
-    },
-    "stub-proof": {
-      "lines-start": 32,
-      "lines-end": 34
-    },
-    "labels": [
-      "bij"
-    ],
-    "code-name": "Eq1323.ϕ",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/metatheorems_from_invariants.tex/compatibility-between-magma-laws": {
-    "stub-path": "chapter/metatheorems_from_invariants.tex",
-    "stub-spec": {
-      "lines-start": 182,
-      "lines-end": 184
-    },
-    "stub-proof": {
-      "lines-start": 186,
-      "lines-end": 190
-    },
-    "labels": [
-      "compatibility-between-magma-laws"
-    ],
-    "code-name": "Law.satisfies_fin_satisfies_nat",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/677.tex/a0000000000": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 156,
-      "lines-end": 157
-    },
-    "stub-proof": {
-      "lines-start": 159,
-      "lines-end": 162
-    },
-    "labels": [
-      "a0000000000"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_models.tex/5093-nontrivial": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 72,
-      "lines-end": 73
-    },
-    "stub-proof": {
-      "lines-start": 75,
-      "lines-end": 77
-    },
-    "labels": [
-      "5093-nontrivial"
-    ],
-    "code-name": "InfModel.Finite.Equation5093_implies_Equation2",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq5093",
-      "models-def"
-    ],
-    "proof-ok": true
-  },
-  "chapter/1729.tex/sm-def": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 65,
-      "lines-end": 66
-    },
-    "labels": [
-      "sm-def"
-    ],
-    "code-name": "Eq1729.SM",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/rewriting.tex/a0000000001": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 6,
-      "lines-end": 14
-    },
-    "labels": [
-      "a0000000001"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq345169": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 334,
-      "lines-end": 338
-    },
-    "labels": [
-      "eq345169"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/a0000000007": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 254,
-      "lines-end": 256
-    },
-    "stub-proof": {
-      "lines-start": 257,
-      "lines-end": 263
-    },
-    "labels": [
-      "a0000000007"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq65",
-      "eq1491",
-      "obelix-extend"
-    ]
-  },
-  "chapter/677.tex/677-basic": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 18,
-      "lines-end": 24
-    },
-    "stub-proof": {
-      "lines-start": 26,
-      "lines-end": 33
-    },
-    "labels": [
-      "677-basic"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/induced-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 48,
-      "lines-end": 51
-    },
-    "labels": [
-      "induced-def"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "free-magma-def"
-    ]
-  },
-  "chapter/general_implications.tex/duality": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 57,
-      "lines-end": 59
-    },
-    "stub-proof": {
-      "lines-start": 61,
-      "lines-end": 63
-    },
-    "labels": [
-      "duality"
-    ],
-    "code-name": "Law.MagmaLaw.implies_iff_dual",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "pre-order"
-    ]
-  },
-  "chapter/equations.tex/eq1491": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 185,
-      "lines-end": 187
-    },
-    "labels": [
-      "eq1491"
-    ],
-    "code-name": "Equation1491",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/weak_central_groupoids.tex/greedy-prop": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
-    "stub-spec": {
-      "lines-start": 87,
-      "lines-end": 89
-    },
-    "stub-proof": {
-      "lines-start": 91,
-      "lines-end": 97
-    },
-    "labels": [
-      "greedy-prop"
-    ],
-    "code-name": "RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1485"
-    ]
-  },
-  "chapter/weak_central_groupoids.tex/rev-claim": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
-    "stub-spec": {
-      "lines-start": 57,
-      "lines-end": 59
-    },
-    "stub-proof": {
-      "lines-start": 61,
-      "lines-end": 65
-    },
-    "labels": [
-      "rev-claim"
-    ],
-    "code-name": "RelaxedWeakCentralGroupoid.strictify",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "claim-4"
-    ]
-  },
-  "chapter/equations.tex/eq3722": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 248,
-      "lines-end": 250
-    },
-    "labels": [
-      "eq3722"
-    ],
-    "code-name": "Equation3722",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/partial-solution2": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 215,
-      "lines-end": 226
-    },
-    "labels": [
-      "partial-solution2"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/73-extension": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 470,
-      "lines-end": 471
-    },
-    "stub-proof": {
-      "lines-start": 473,
-      "lines-end": 482
-    },
-    "labels": [
-      "73-extension"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1659": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 207,
-      "lines-end": 209
-    },
-    "labels": [
-      "eq1659"
-    ],
-    "code-name": "Equation1659",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq381": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 148,
-      "lines-end": 150
-    },
-    "labels": [
-      "eq381"
-    ],
-    "code-name": "Equation381",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/Eq1729.reduce_to_new_axioms": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 134,
-      "lines-end": 135
-    },
-    "stub-proof": {
-      "lines-start": 137,
-      "lines-end": 138
-    },
-    "labels": [
-      "axiom-reduce",
-      "Eq1729.reduce_to_new_axioms"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "l0-la",
-      "ra-prop",
-      "mag"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/1289-extension": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 437,
-      "lines-end": 438
-    },
-    "stub-proof": {
-      "lines-start": 440,
-      "lines-end": 451
-    },
-    "labels": [
-      "1289-extension"
-    ],
-    "code-name": "Eq1289.Greedy.lift",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/1076-extension": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 538,
-      "lines-end": 539
-    },
-    "stub-proof": {
-      "lines-start": 540,
-      "lines-end": 565
-    },
-    "labels": [
-      "1076-extension"
-    ],
-    "code-name": "Eq1076.Greedy.lift",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/906.tex/906-3862": {
-    "stub-path": "chapter/906.tex",
-    "stub-spec": {
-      "lines-start": 27,
-      "lines-end": 32
-    },
-    "stub-proof": {
-      "lines-start": 34,
-      "lines-end": 43
-    },
-    "labels": [
-      "906-3862"
-    ],
-    "code-name": "Eq906.Finite.Equation906_implies_Equation3862",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "edge-disjoint"
-    ]
-  },
-  "chapter/equations.tex/eq1657": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 203,
-      "lines-end": 205
-    },
-    "labels": [
-      "eq1657"
-    ],
-    "code-name": "Equation1657",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/n-def": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 76,
-      "lines-end": 79
-    },
-    "labels": [
-      "n-def"
-    ],
-    "code-name": "Eq1729.N",
-    "lean-names": [
-      "Eq1729.N",
-      "Eq1729.N_order",
-      "Eq1729.parent"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1661": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 211,
-      "lines-end": 213
-    },
-    "labels": [
-      "eq1661"
-    ],
-    "code-name": "Equation1661",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/abstract_nonsense.tex/confluent-theory": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 100,
-      "lines-end": 102
-    },
-    "labels": [
-      "confluent-theory"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "free-magma-def"
-    ]
-  },
-  "chapter/1516.tex/1516-ext-var": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 41,
-      "lines-end": 42
-    },
-    "stub-proof": {
-      "lines-start": 44,
-      "lines-end": 45
-    },
-    "labels": [
-      "1516-ext-var"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/no-inject": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 154,
-      "lines-end": 155
-    },
-    "stub-proof": {
-      "lines-start": 157,
-      "lines-end": 178
-    },
-    "labels": [
-      "no-inject"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq2": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 14,
-      "lines-end": 16
-    },
-    "labels": [
-      "eq2"
-    ],
-    "code-name": "Equation2",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq4579": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 294,
-      "lines-end": 296
-    },
-    "labels": [
-      "eq4579"
-    ],
-    "code-name": "Equation4579",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_models.tex/kis-thm2": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 46,
-      "lines-end": 47
-    },
-    "stub-proof": {
-      "lines-start": 49,
-      "lines-end": 66
-    },
-    "labels": [
-      "kis-thm2"
-    ],
-    "code-name": "InfModel.Finite.Equation28770_implies_Equation2",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq2",
-      "eq28770"
-    ],
-    "proof-ok": true
-  },
-  "chapter/infinite_magma_constructions.tex/713-extension": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 407,
-      "lines-end": 408
-    },
-    "stub-proof": {
-      "lines-start": 410,
-      "lines-end": 419
-    },
-    "labels": [
-      "713-extension"
-    ],
-    "code-name": "Eq1722.Greedy.lift",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/graph-desc": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 73,
-      "lines-end": 74
-    },
-    "stub-proof": {
-      "lines-start": 76,
-      "lines-end": 77
-    },
-    "labels": [
-      "graph-desc"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-dependencies": [
-      "irred-desc"
-    ]
-  },
-  "chapter/equations.tex/eq23": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 64,
-      "lines-end": 66
-    },
-    "labels": [
-      "eq23"
-    ],
-    "code-name": "Equation23",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq46": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 118,
-      "lines-end": 120
-    },
-    "labels": [
-      "eq46"
-    ],
-    "code-name": "Equation46",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq477": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 160,
-      "lines-end": 162
-    },
-    "labels": [
-      "eq477"
-    ],
-    "code-name": "Equation477",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq4522": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 282,
-      "lines-end": 284
-    },
-    "labels": [
-      "eq4522"
-    ],
-    "code-name": "Equation4522",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/general_implications.tex/maximal": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 29,
-      "lines-end": 31
-    },
-    "stub-proof": {
-      "lines-start": 33,
-      "lines-end": 35
-    },
-    "labels": [
-      "maximal"
-    ],
-    "code-name": "Law.MagmaLaw.Equation1_maximal",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "pre-order"
-    ]
-  },
-  "chapter/1516.tex/second-ext": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 132,
-      "lines-end": 133
-    },
-    "stub-proof": {
-      "lines-start": 135,
-      "lines-end": 142
-    },
-    "labels": [
-      "second-ext"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/finite-check": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 795,
-      "lines-end": 796
-    },
-    "stub-proof": {
-      "lines-start": 798,
-      "lines-end": 799
-    },
-    "labels": [
-      "finite-check"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/854-413": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 238,
-      "lines-end": 239
-    },
-    "stub-proof": {
-      "lines-start": 241,
-      "lines-end": 246
-    },
-    "labels": [
-      "854-413"
-    ],
-    "code-name": "Refutation_854.not_413_1045",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/implications.tex/3744_implies_3722_381": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 51,
-      "lines-end": 52
-    },
-    "stub-proof": {
-      "lines-start": 54,
-      "lines-end": 66
-    },
-    "labels": [
-      "3744_implies_3722_381"
-    ],
-    "code-name": "Subgraph.Equation3744_implies_Equation3722",
-    "lean-names": [
-      "Subgraph.Equation3744_implies_Equation3722",
-      "Subgraph.Equation3744_implies_Equation381"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq3744",
-      "eq3722",
-      "eq381"
-    ],
-    "proof-ok": true
-  },
-  "chapter/infinite_magma_constructions.tex/non_imp_1648_206_thm": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 595,
-      "lines-end": 598
-    },
-    "labels": [
-      "non_imp_1648_206_thm"
-    ],
-    "code-name": "Equation1648_not_implies_Equation206",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1648",
-      "eq206",
-      "models-def"
-    ]
-  },
-  "chapter/equations.tex/eq1571": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 191,
-      "lines-end": 193
-    },
-    "labels": [
-      "eq1571"
-    ],
-    "code-name": "Equation1571",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1323.tex/1323-refute-2744": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 117,
-      "lines-end": 118
-    },
-    "stub-proof": {
-      "lines-start": 120,
-      "lines-end": 129
-    },
-    "labels": [
-      "1323-refute-2744"
-    ],
-    "code-name": "Eq1323.Equation1323_not_implies_Equation2744",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-dependencies": [
-      "greedy-iterate"
-    ]
-  },
-  "chapter/1516.tex/axiom-c": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 157,
-      "lines-end": 158
-    },
-    "stub-proof": {
-      "lines-start": 160,
-      "lines-end": 174
-    },
-    "labels": [
-      "axiom-c"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_models.tex/non_imp_3994_3588_thm": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 126,
-      "lines-end": 129
-    },
-    "stub-proof": {
-      "lines-start": 131,
-      "lines-end": 138
-    },
-    "labels": [
-      "non_imp_3994_3588_thm"
-    ],
-    "code-name": "InfModel.Equation3994_not_implies_Equation3588",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq3994",
-      "eq3588",
-      "models-def"
-    ],
-    "proof-ok": true
-  },
-  "chapter/854.tex/854-equiv": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 132,
-      "lines-end": 143
-    },
-    "stub-proof": {
-      "lines-start": 145,
-      "lines-end": 146
-    },
-    "labels": [
-      "854-equiv"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq41": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 94,
-      "lines-end": 96
-    },
-    "labels": [
-      "eq41"
-    ],
-    "code-name": "Equation41",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/abstract_nonsense.tex/477-confl": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 136,
-      "lines-end": 138
-    },
-    "stub-proof": {
-      "lines-start": 140,
-      "lines-end": 152
-    },
-    "labels": [
-      "477-confl"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "confluent-theory",
-      "eq477"
-    ],
-    "proof-dependencies": [
-      "477-lemma"
-    ]
-  },
-  "chapter/general_implications.tex/variable-impl": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 96,
-      "lines-end": 98
-    },
-    "stub-proof": {
-      "lines-start": 100,
-      "lines-end": 102
-    },
-    "labels": [
-      "variable-impl"
-    ],
-    "code-name": "Law.MagmaLaw.SameCount.derive",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "impl"
-    ]
-  },
-  "chapter/general_implications.tex/pre-order": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 10,
-      "lines-end": 12
-    },
-    "labels": [
-      "pre-order"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "impl"
-    ]
-  },
-  "chapter/equations.tex/eq4513": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 278,
-      "lines-end": 280
-    },
-    "labels": [
-      "eq4513"
-    ],
-    "code-name": "Equation4513",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq168": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 136,
-      "lines-end": 138
-    },
-    "labels": [
-      "eq168"
-    ],
-    "code-name": "Equation168",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_models.tex/kis-thm": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 13,
-      "lines-end": 17
-    },
-    "stub-proof": {
-      "lines-start": 19,
-      "lines-end": 42
-    },
-    "labels": [
-      "kis-thm"
-    ],
-    "code-name": "InfModel.Finite.Equation374794_implies_Equation2",
-    "lean-names": [
-      "InfModel.Finite.Equation374794_implies_Equation2",
-      "InfModel.Equation374794_not_implies_Equation2"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq374794",
-      "eq2"
-    ],
-    "proof-ok": true
-  },
-  "chapter/equations.tex/eq16": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 60,
-      "lines-end": 62
-    },
-    "labels": [
-      "eq16"
-    ],
-    "code-name": "Equation16",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_models.tex/1441-4067-1443-3055": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 189,
-      "lines-end": 198
-    },
-    "stub-proof": {
-      "lines-start": 200,
-      "lines-end": 204
-    },
-    "labels": [
-      "1441-4067-1443-3055"
-    ],
-    "code-name": "Eq1441.Finite.Equation1441_implies_Equation4067",
-    "lean-names": [
-      "Eq1441.Finite.Equation1441_implies_Equation4067",
-      "Eq1441.Finite.Equation1443_implies_Equation3055"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/1729.tex/ra-defn": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 89,
-      "lines-end": 94
-    },
-    "labels": [
-      "ra-defn"
-    ],
-    "code-name": "Eq1729.R'",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "sm-def",
-      "n-def"
-    ]
-  },
-  "chapter/implications.tex/1571_impl": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 108,
-      "lines-end": 109
-    },
-    "stub-proof": {
-      "lines-start": 111,
-      "lines-end": 156
-    },
-    "labels": [
-      "1571_impl"
-    ],
-    "code-name": "Subgraph.Equation1571_implies_Equation2662",
-    "lean-names": [
-      "Subgraph.Equation1571_implies_Equation2662",
-      "Subgraph.Equation1571_implies_Equation40",
-      "Subgraph.Equation1571_implies_Equation23",
-      "Subgraph.Equation1571_implies_Equation8",
-      "Subgraph.Equation1571_implies_Equation16",
-      "Subgraph.Equation1571_implies_Equation43",
-      "Subgraph.Equation1571_implies_Equation4512"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1571",
-      "eq2662",
-      "eq40",
-      "eq23",
-      "eq8",
-      "eq16",
-      "eq14",
-      "eq43",
-      "eq4512"
-    ],
-    "proof-ok": true
-  },
-  "chapter/equations.tex/eq206": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 142,
-      "lines-end": 144
-    },
-    "labels": [
-      "eq206"
-    ],
-    "code-name": "Equation206",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/enlarge-S": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 266,
-      "lines-end": 267
-    },
-    "stub-proof": {
-      "lines-start": 269,
-      "lines-end": 270
-    },
-    "labels": [
-      "enlarge-S"
-    ],
-    "code-name": "Eq1729.enlarge_S'",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "enlarge-S-induct"
-    ]
-  },
-  "chapter/abstract_nonsense.tex/anti-impl": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 64,
-      "lines-end": 74
-    },
-    "stub-proof": {
-      "lines-start": 76,
-      "lines-end": 78
-    },
-    "labels": [
-      "anti-impl"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-dependencies": [
-      "canonical-invariant"
-    ]
-  },
-  "chapter/rewriting.tex/a0000000002": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 24,
-      "lines-end": 34
-    },
-    "labels": [
-      "a0000000002"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq7": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 44,
-      "lines-end": 46
-    },
-    "labels": [
-      "eq7"
-    ],
-    "code-name": "Equation7",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/chain": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 188,
-      "lines-end": 190
-    },
-    "stub-proof": {
-      "lines-start": 192,
-      "lines-end": 193
-    },
-    "labels": [
-      "chain"
-    ],
-    "code-name": "Eq1729.use_chain",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "part-sol"
-    ],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "axiom-reduce"
-    ]
-  },
-  "chapter/implications.tex/sheffer": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 170,
-      "lines-end": 172
-    },
-    "stub-proof": {
-      "lines-start": 174,
-      "lines-end": 182
-    },
-    "labels": [
-      "sheffer"
-    ],
-    "code-name": "Sheffer.Equation345169_is_Boolean",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq345169"
-    ],
-    "proof-ok": true
-  },
-  "chapter/infinite_magma_constructions.tex/asterix-obelix": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 180,
-      "lines-end": 181
-    },
-    "stub-proof": {
-      "lines-start": 183,
-      "lines-end": 184
-    },
-    "labels": [
-      "asterix-obelix"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq65",
-      "eq1491"
-    ],
-    "proof-dependencies": [
-      "no-inject"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/asterix-obelix-finite": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 188,
-      "lines-end": 189
-    },
-    "stub-proof": {
-      "lines-start": 191,
-      "lines-end": 196
-    },
-    "labels": [
-      "asterix-obelix-finite"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq65",
-      "eq1491"
-    ]
-  },
-  "chapter/677.tex/linear-2": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 76,
-      "lines-end": 79
-    },
-    "stub-proof": {
-      "lines-start": 81,
-      "lines-end": 87
-    },
-    "labels": [
-      "linear-2"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq38": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 76,
-      "lines-end": 78
-    },
-    "labels": [
-      "eq38"
-    ],
-    "code-name": "Equation38",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/854.tex/irred-desc": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 38,
-      "lines-end": 56
-    },
-    "stub-proof": {
-      "lines-start": 58,
-      "lines-end": 63
-    },
-    "labels": [
-      "irred-desc"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq854"
-    ]
-  },
-  "chapter/equations.tex/eq4512": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 272,
-      "lines-end": 274
-    },
-    "labels": [
-      "eq4512"
-    ],
-    "code-name": "Equation4512",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/partial-exist": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 182,
-      "lines-end": 183
-    },
-    "stub-proof": {
-      "lines-start": 185,
-      "lines-end": 186
-    },
-    "labels": [
-      "partial-exist"
-    ],
-    "code-name": "Eq1729.TrivialPartialSolution",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "part-sol"
-    ],
-    "proof-ok": true
-  },
-  "chapter/infinite_magma_constructions.tex/a0000000008": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 858,
-      "lines-end": 868
-    },
-    "stub-proof": {
-      "lines-start": 870,
-      "lines-end": 896
-    },
-    "labels": [
-      "a0000000008"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/854.tex/854-anti": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 83,
-      "lines-end": 92
-    },
-    "stub-proof": {
-      "lines-start": 94,
-      "lines-end": 126
-    },
-    "labels": [
-      "854-anti"
-    ],
-    "code-name": "Refutation_854.not_3316_3925",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/push": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 128,
-      "lines-end": 132
-    },
-    "stub-proof": {
-      "lines-start": 134,
-      "lines-end": 136
-    },
-    "labels": [
-      "push"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "law-def"
-    ]
-  },
-  "chapter/intro.tex/compactness-thm": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 119,
-      "lines-end": 122
-    },
-    "stub-proof": {
-      "lines-start": 124,
-      "lines-end": 126
-    },
-    "labels": [
-      "compactness-thm"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "models-def"
-    ],
-    "proof-dependencies": [
-      "sound-complete"
-    ]
-  },
-  "chapter/general_implications.tex/impl": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 4,
-      "lines-end": 8
-    },
-    "labels": [
-      "impl"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "models-def"
-    ]
-  },
-  "chapter/equations.tex/eq45": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 112,
-      "lines-end": 114
-    },
-    "labels": [
-      "eq45"
-    ],
-    "code-name": "Equation45",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/n-prop": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 81,
-      "lines-end": 82
-    },
-    "stub-proof": {
-      "lines-start": 84,
-      "lines-end": 85
-    },
-    "labels": [
-      "n-prop"
-    ],
-    "code-name": "Eq1729.N_countable",
-    "lean-names": [
-      "Eq1729.N_countable",
-      "Eq1729.N_order"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "n-def"
-    ],
-    "proof-ok": true
-  },
-  "chapter/egraphs.tex/14_implies_23": {
-    "stub-path": "chapter/egraphs.tex",
-    "stub-spec": {
-      "lines-start": 25,
-      "lines-end": 26
-    },
-    "stub-proof": {
-      "lines-start": 28,
-      "lines-end": 31
-    },
-    "labels": [
-      "14_implies_23"
-    ],
-    "code-name": "Subgraph.Equation14_implies_Equation23",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq23",
-      "eq14"
-    ],
-    "proof-ok": true
-  },
-  "chapter/1516.tex/1516-seed": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 20,
-      "lines-end": 29
-    },
-    "labels": [
-      "1516-seed"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/677.tex/op-2-677": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 139,
-      "lines-end": 141
-    },
-    "stub-proof": {
-      "lines-start": 143,
-      "lines-end": 148
-    },
-    "labels": [
-      "op-2-677"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/obelix-extend": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 233,
-      "lines-end": 235
-    },
-    "stub-proof": {
-      "lines-start": 236,
-      "lines-end": 248
-    },
-    "labels": [
-      "obelix-extend"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "partial-solution2"
-    ]
-  },
-  "chapter/intro.tex/magma-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 2,
-      "lines-end": 6
-    },
-    "labels": [
-      "magma-def"
-    ],
-    "code-name": "Magma",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/implications.tex/14_implies_29": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 41,
-      "lines-end": 42
-    },
-    "labels": [
-      "14_implies_29"
-    ],
-    "code-name": "Subgraph.Equation14_implies_Equation29",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq29",
-      "eq14"
-    ]
-  },
-  "chapter/metatheorems_from_invariants.tex/fundamental-property-of-invariants": {
-    "stub-path": "chapter/metatheorems_from_invariants.tex",
-    "stub-spec": {
-      "lines-start": 144,
-      "lines-end": 148
-    },
-    "stub-proof": {
-      "lines-start": 149,
-      "lines-end": 151
-    },
-    "labels": [
-      "fundamental-property-of-invariants"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/a0000000010": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 36,
-      "lines-end": 38
-    },
-    "stub-proof": {
-      "lines-start": 40,
-      "lines-end": 42
-    },
-    "labels": [
-      "a0000000010"
-    ],
-    "code-name": "FreeMagma.elementsOfNumNodesEq_card_eq_catalan_mul_pow",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/abstract_nonsense.tex/477-lemma": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 154,
-      "lines-end": 156
-    },
-    "stub-proof": {
-      "lines-start": 158,
-      "lines-end": 169
-    },
-    "labels": [
-      "477-lemma"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/implications.tex/1689_equiv_2": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 68,
-      "lines-end": 69
-    },
-    "stub-proof": {
-      "lines-start": 72,
-      "lines-end": 104
-    },
-    "labels": [
-      "1689_equiv_2"
-    ],
-    "code-name": "Subgraph.Equation1689_implies_Equation2",
-    "lean-names": [
-      "Subgraph.Equation1689_implies_Equation2",
-      "Subgraph.Equation2_implies_Equation1689"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1689",
-      "eq2"
-    ],
-    "proof-ok": true
-  },
-  "chapter/1729.tex/l0-la": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 115,
-      "lines-end": 120
-    },
-    "stub-proof": {
-      "lines-start": 122,
-      "lines-end": 123
-    },
-    "labels": [
-      "l0-la"
-    ],
-    "code-name": "Eq1729.L'",
-    "lean-names": [
-      "Eq1729.L'",
-      "Eq1729.L'_0_eq_L₀'"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/1729.tex/enlarge-op": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 274,
-      "lines-end": 275
-    },
-    "stub-proof": {
-      "lines-start": 277,
-      "lines-end": 296
-    },
-    "labels": [
-      "enlarge-op"
-    ],
-    "code-name": "Eq1729.enlarge_op",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "enlarge-S"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/extend": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 147,
-      "lines-end": 148
-    },
-    "stub-proof": {
-      "lines-start": 150,
-      "lines-end": 152
-    },
-    "labels": [
-      "extend"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "partial-solution"
-    ],
-    "proof-dependencies": [
-      "iteration"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/add-E1": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 704,
-      "lines-end": 705
-    },
-    "stub-proof": {
-      "lines-start": 707,
-      "lines-end": 746
-    },
-    "labels": [
-      "add-E1"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1485": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 179,
-      "lines-end": 181
-    },
-    "labels": [
-      "eq1485"
-    ],
-    "code-name": "Equation1491",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq3744": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 254,
-      "lines-end": 256
-    },
-    "labels": [
-      "eq3744"
-    ],
-    "code-name": "Equation3744",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1323.tex/build-magma": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 37,
-      "lines-end": 60
-    },
-    "stub-proof": {
-      "lines-start": 62,
-      "lines-end": 85
-    },
-    "labels": [
-      "build-magma"
-    ],
-    "code-name": "Eq1323.op",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-dependencies": [
-      "bij"
-    ]
-  },
-  "chapter/1516.tex/aux": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 84,
-      "lines-end": 90
-    },
-    "stub-proof": {
-      "lines-start": 92,
-      "lines-end": 93
-    },
-    "labels": [
-      "aux"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_magma_constructions.tex/non_imp_1659_4315_thm": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 659,
-      "lines-end": 662
-    },
-    "labels": [
-      "non_imp_1659_4315_thm"
-    ],
-    "code-name": "Equation1659_facts",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1659",
-      "eq4315",
-      "models-def"
-    ]
-  },
-  "chapter/metatheorems_from_invariants.tex/lifting-magma-family": {
-    "stub-path": "chapter/metatheorems_from_invariants.tex",
-    "stub-spec": {
-      "lines-start": 114,
-      "lines-end": 120
-    },
-    "labels": [
-      "lifting-magma-family"
-    ],
-    "code-name": "LiftingMagmaFamily",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1516.tex/first-ext": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 123,
-      "lines-end": 124
-    },
-    "stub-proof": {
-      "lines-start": 126,
-      "lines-end": 128
-    },
-    "labels": [
-      "first-ext"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_models.tex/austin-two": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 81,
-      "lines-end": 82
-    },
-    "stub-proof": {
-      "lines-start": 84,
-      "lines-end": 85
-    },
-    "labels": [
-      "austin-two"
-    ],
-    "code-name": "InfModel.Finite.two_variable_laws",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "models-def"
-    ],
-    "proof-ok": true
-  },
-  "chapter/1729.tex/enlarge-l0-many": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 210,
-      "lines-end": 211
-    },
-    "stub-proof": {
-      "lines-start": 213,
-      "lines-end": 214
-    },
-    "labels": [
-      "enlarge-l0-many"
-    ],
-    "code-name": "Eq1729.enlarge_L₀'_multiple",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "enlarge-l0"
-    ]
-  },
-  "chapter/intro.tex/models-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 82,
-      "lines-end": 89
-    },
-    "labels": [
-      "models-def"
-    ],
-    "code-name": "models",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "law-def"
-    ]
-  },
-  "chapter/equations.tex/eq28770": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 326,
-      "lines-end": 330
-    },
-    "labels": [
-      "eq28770"
-    ],
-    "code-name": "Equation28770",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq65": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 130,
-      "lines-end": 132
-    },
-    "labels": [
-      "eq65"
-    ],
-    "code-name": "Equation65",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq374794": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 342,
-      "lines-end": 347
-    },
-    "labels": [
-      "eq374794"
-    ],
-    "code-name": "Equation374794",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/weak_central_groupoids.tex/claim-4": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
-    "stub-spec": {
-      "lines-start": 45,
-      "lines-end": 47
-    },
-    "stub-proof": {
-      "lines-start": 49,
-      "lines-end": 53
-    },
-    "labels": [
-      "claim-4"
-    ],
-    "code-name": "WeakCentralGroupoid.isGood_five",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq1485"
-    ],
-    "proof-dependencies": [
-      "graph-dual"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/add-E2": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 749,
-      "lines-end": 750
-    },
-    "stub-proof": {
-      "lines-start": 752,
-      "lines-end": 769
-    },
-    "labels": [
-      "add-E2"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq6": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 38,
-      "lines-end": 40
-    },
-    "labels": [
-      "eq6"
-    ],
-    "code-name": "Equation6",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/intro.tex/free-magma-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 19,
-      "lines-end": 24
-    },
-    "labels": [
-      "free-magma-def"
-    ],
-    "code-name": "FreeMagma",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/1437-thm": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 927,
-      "lines-end": 931
-    },
-    "stub-proof": {
-      "lines-start": 933,
-      "lines-end": 944
-    },
-    "labels": [
-      "1437-thm"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/general_implications.tex/constant-impl": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 88,
-      "lines-end": 90
-    },
-    "stub-proof": {
-      "lines-start": 92,
-      "lines-end": 94
-    },
-    "labels": [
-      "constant-impl"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "impl",
-      "eq46"
-    ]
-  },
-  "chapter/rewriting.tex/a0000000003": {
-    "stub-path": "chapter/rewriting.tex",
-    "stub-spec": {
-      "lines-start": 38,
-      "lines-end": 40
-    },
-    "labels": [
-      "a0000000003"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/abstract_nonsense.tex/free-confluent": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 118,
-      "lines-end": 120
-    },
-    "stub-proof": {
-      "lines-start": 122,
-      "lines-end": 124
-    },
-    "labels": [
-      "free-confluent"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "confluent-theory"
-    ]
-  },
-  "chapter/equations.tex/eq4": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 26,
-      "lines-end": 28
-    },
-    "labels": [
-      "eq4"
-    ],
-    "code-name": "Equation4",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq14": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 54,
-      "lines-end": 56
-    },
-    "labels": [
-      "eq14"
-    ],
-    "code-name": "Equation14",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq42": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 100,
-      "lines-end": 102
-    },
-    "labels": [
-      "eq42"
-    ],
-    "code-name": "Equation42",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq4564": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 288,
-      "lines-end": 290
-    },
-    "labels": [
-      "eq4564"
-    ],
-    "code-name": "Equation4564",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/1722-extension": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 365,
-      "lines-end": 366
-    },
-    "stub-proof": {
-      "lines-start": 368,
-      "lines-end": 385
-    },
-    "labels": [
-      "1722-extension"
-    ],
-    "code-name": "Eq1722.Greedy.lift",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1729.tex/ra-prop": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 96,
-      "lines-end": 97
-    },
-    "stub-proof": {
-      "lines-start": 99,
-      "lines-end": 100
-    },
-    "labels": [
-      "ra-prop"
-    ],
-    "code-name": "Eq1729.R'_axiom_iia",
-    "lean-names": [
-      "Eq1729.R'_axiom_iia",
-      "Eq1729.R'_axiom_iib"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "ra-defn"
-    ],
-    "proof-ok": true
-  },
-  "chapter/677.tex/255-equiv": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 37,
-      "lines-end": 47
-    },
-    "stub-proof": {
-      "lines-start": 49,
-      "lines-end": 61
-    },
-    "labels": [
-      "255-equiv"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1701": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 223,
-      "lines-end": 225
-    },
-    "labels": [
-      "eq1701"
-    ],
-    "code-name": "Equation1701",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/intro.tex/law-count": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 153,
-      "lines-end": 155
-    },
-    "stub-proof": {
-      "lines-start": 157,
-      "lines-end": 159
-    },
-    "labels": [
-      "law-count"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "push"
-    ]
-  },
-  "chapter/equations.tex/eq3994": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 260,
-      "lines-end": 264
-    },
-    "labels": [
-      "eq3994"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq4582": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 300,
-      "lines-end": 302
-    },
-    "labels": [
-      "eq4582"
-    ],
-    "code-name": "Equation4582",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/1729_refute_817": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 299,
-      "lines-end": 300
-    },
-    "stub-proof": {
-      "lines-start": 302,
-      "lines-end": 304
-    },
-    "labels": [
-      "1729_refute_817"
-    ],
-    "code-name": "Eq1729.not_817",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "partial-exist",
-      "enlarge-l0",
-      "enlarge-S",
-      "enlarge-op",
-      "chain"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/extension-lemma": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 801,
-      "lines-end": 802
-    },
-    "stub-proof": {
-      "lines-start": 804,
-      "lines-end": 843
-    },
-    "labels": [
-      "extension-lemma"
-    ],
-    "code-name": "Eq63.Greedy.Extension.Next",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1729.tex/enlarge-l0": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 198,
-      "lines-end": 199
-    },
-    "stub-proof": {
-      "lines-start": 201,
-      "lines-end": 206
-    },
-    "labels": [
-      "enlarge-l0"
-    ],
-    "code-name": "Eq1729.enlarge_L₀'",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/general_implications.tex/diag": {
-    "stub-path": "chapter/general_implications.tex",
-    "stub-spec": {
-      "lines-start": 67,
-      "lines-end": 76
-    },
-    "stub-proof": {
-      "lines-start": 78,
-      "lines-end": 84
-    },
-    "labels": [
-      "diag"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq8": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 50,
-      "lines-end": 52
-    },
-    "labels": [
-      "eq8"
-    ],
-    "code-name": "Equation8",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/854.tex/extend-854": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 231,
-      "lines-end": 233
-    },
-    "stub-proof": {
-      "lines-start": 235,
-      "lines-end": 236
-    },
-    "labels": [
-      "extend-854"
-    ],
-    "code-name": "Refutation_854.Greedy.exists_extension",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq3588": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 240,
-      "lines-end": 244
-    },
-    "labels": [
-      "eq3588"
-    ],
-    "code-name": "Equation3588",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/abstract_nonsense.tex/canonical-invariant": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 51,
-      "lines-end": 56
-    },
-    "stub-proof": {
-      "lines-start": 58,
-      "lines-end": 60
-    },
-    "labels": [
-      "canonical-invariant"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "free-theory"
-    ],
-    "proof-dependencies": [
-      "freemag-exist"
-    ]
-  },
-  "chapter/intro.tex/derivation-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 91,
-      "lines-end": 105
-    },
-    "labels": [
-      "derivation-def"
-    ],
-    "code-name": "derive",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "law-def"
-    ]
-  },
-  "chapter/intro.tex/sound-complete": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 109,
-      "lines-end": 112
-    },
-    "stub-proof": {
-      "lines-start": 114,
-      "lines-end": 117
-    },
-    "labels": [
-      "sound-complete"
-    ],
-    "code-name": "Completeness",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "models-def",
-      "derivation-def"
-    ],
-    "proof-ok": true
-  },
-  "chapter/intro.tex/equiv": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 142,
-      "lines-end": 145
-    },
-    "stub-proof": {
-      "lines-start": 147,
-      "lines-end": 149
-    },
-    "labels": [
-      "equiv"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "law-def"
-    ]
-  },
-  "chapter/equations.tex/eq3167": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 235,
-      "lines-end": 237
-    },
-    "labels": [
-      "eq3167"
-    ],
-    "code-name": "Equation3167",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq4315": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 268,
-      "lines-end": 270
-    },
-    "labels": [
-      "eq4315"
-    ],
-    "code-name": "Equation4315",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/equations.tex/eq5093": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 310,
-      "lines-end": 314
-    },
-    "labels": [
-      "eq5093"
-    ],
-    "code-name": "Equation5093",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1516.tex/1516-ext": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 33,
-      "lines-end": 34
-    },
-    "stub-proof": {
-      "lines-start": 36,
-      "lines-end": 37
-    },
-    "labels": [
-      "1516-ext"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1516.tex/1516-no-255": {
-    "stub-path": "chapter/1516.tex",
-    "stub-spec": {
-      "lines-start": 176,
-      "lines-end": 177
-    },
-    "stub-proof": {
-      "lines-start": 179,
-      "lines-end": 184
-    },
-    "labels": [
-      "1516-no-255"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/infinite_models.tex/period": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 105,
-      "lines-end": 106
-    },
-    "stub-proof": {
-      "lines-start": 108,
-      "lines-end": 109
-    },
-    "labels": [
-      "period"
-    ],
-    "code-name": "FiniteModel.Finite.fn_eventually_periodic'",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/677.tex/linear-obstruction": {
-    "stub-path": "chapter/677.tex",
-    "stub-spec": {
-      "lines-start": 66,
-      "lines-end": 67
-    },
-    "stub-proof": {
-      "lines-start": 69,
-      "lines-end": 72
-    },
-    "labels": [
-      "linear-obstruction"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
   },
   "chapter/metatheorems_from_invariants.tex/lifting-magma-basis-evaluation": {
+    "label": "lifting-magma-basis-evaluation",
+    "stub-type": "theorem",
     "stub-path": "chapter/metatheorems_from_invariants.tex",
     "stub-spec": {
       "lines-start": 132,
@@ -3446,65 +17,26 @@
       "lines-start": 138,
       "lines-end": 142
     },
-    "labels": [
-      "lifting-magma-basis-evaluation"
-    ],
-    "code-name": "MagmaLaw.models_iff_satisfies_ι",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
+    "code-name": "probe:MagmaLaw.models_iff_satisfies_ι",
+    "spec-ok": true
   },
-  "chapter/1323.tex/partial-1323": {
-    "stub-path": "chapter/1323.tex",
+  "chapter/1516.tex/1516-ext": {
+    "label": "1516-ext",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
     "stub-spec": {
-      "lines-start": 87,
-      "lines-end": 89
-    },
-    "labels": [
-      "partial-1323"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq854": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 166,
-      "lines-end": 168
-    },
-    "labels": [
-      "eq854"
-    ],
-    "code-name": "Equation953",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/906.tex/edge-disjoint": {
-    "stub-path": "chapter/906.tex",
-    "stub-spec": {
-      "lines-start": 16,
-      "lines-end": 18
+      "lines-start": 33,
+      "lines-end": 34
     },
     "stub-proof": {
-      "lines-start": 20,
-      "lines-end": 21
+      "lines-start": 36,
+      "lines-end": 37
     },
-    "labels": [
-      "edge-disjoint"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
+    "spec-ok": false
   },
   "chapter/1729.tex/enlarge-S-induct": {
+    "label": "enlarge-S-induct",
+    "stub-type": "proposition",
     "stub-path": "chapter/1729.tex",
     "stub-spec": {
       "lines-start": 254,
@@ -3514,339 +46,642 @@
       "lines-start": 257,
       "lines-end": 261
     },
-    "labels": [
-      "enlarge-S-induct"
-    ],
-    "code-name": "Eq1729.enlarge_S'_induction",
+    "code-name": "probe:Eq1729.enlarge_S'_induction",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
     "proof-ok": true,
     "proof-dependencies": [
-      "enlarge-l0-many",
-      "enlarge-S-induct-axioms"
+      "chapter/1729.tex/enlarge-l0-many",
+      "chapter/1729.tex/enlarge-S-induct-axioms"
     ]
   },
-  "chapter/weak_central_groupoids.tex/1485-dual": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
+  "chapter/677.tex/255-equiv": {
+    "label": "255-equiv",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
     "stub-spec": {
-      "lines-start": 9,
-      "lines-end": 15
+      "lines-start": 37,
+      "lines-end": 47
     },
     "stub-proof": {
-      "lines-start": 17,
-      "lines-end": 23
+      "lines-start": 49,
+      "lines-end": 61
     },
-    "labels": [
-      "1485-dual"
-    ],
-    "code-name": "WeakCentralGroupoid.dual_eqn",
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq38": {
+    "label": "eq38",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 76,
+      "lines-end": 78
+    },
+    "code-name": "probe:Equation38",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "eq1485"
+      "chapter/intro.tex/magma-def"
     ]
   },
-  "chapter/infinite_magma_constructions.tex/63-extension": {
+  "chapter/infinite_magma_constructions.tex/extend": {
+    "label": "extend",
+    "stub-type": "corollary",
     "stub-path": "chapter/infinite_magma_constructions.tex",
     "stub-spec": {
-      "lines-start": 496,
-      "lines-end": 497
+      "lines-start": 147,
+      "lines-end": 148
     },
     "stub-proof": {
-      "lines-start": 498,
-      "lines-end": 527
+      "lines-start": 150,
+      "lines-end": 152
     },
-    "labels": [
-      "63-extension"
-    ],
     "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/1323.tex/greedy-iterate": {
-    "stub-path": "chapter/1323.tex",
-    "stub-spec": {
-      "lines-start": 111,
-      "lines-end": 112
-    },
-    "stub-proof": {
-      "lines-start": 114,
-      "lines-end": 115
-    },
-    "labels": [
-      "greedy-iterate"
+    "spec-dependencies": [
+      "chapter/infinite_magma_constructions.tex/partial-solution"
     ],
-    "code-name": "Eq1323.exists_complete_function",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
     "proof-dependencies": [
-      "greedy-1323",
-      "build-magma",
-      "partial-1323-sound"
+      "chapter/infinite_magma_constructions.tex/iteration"
     ]
   },
-  "chapter/weak_central_groupoids.tex/graph-dual": {
-    "stub-path": "chapter/weak_central_groupoids.tex",
+  "chapter/rewriting.tex/a0000000001": {
+    "label": "a0000000001",
+    "stub-type": "definition",
+    "stub-path": "chapter/rewriting.tex",
     "stub-spec": {
-      "lines-start": 27,
-      "lines-end": 29
+      "lines-start": 6,
+      "lines-end": 14
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/part-sol": {
+    "label": "part-sol",
+    "stub-type": "definition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 156,
+      "lines-end": 180
+    },
+    "code-name": "probe:Eq1729.PartialSolution",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/sm-def",
+      "chapter/1729.tex/n-def"
+    ]
+  },
+  "chapter/677.tex/op-2-677": {
+    "label": "op-2-677",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 139,
+      "lines-end": 141
     },
     "stub-proof": {
-      "lines-start": 31,
-      "lines-end": 35
+      "lines-start": 143,
+      "lines-end": 148
     },
-    "labels": [
-      "graph-dual"
-    ],
-    "code-name": "WeakCentralGroupoid.Path.def'",
+    "spec-ok": false
+  },
+  "chapter/infinite_magma_constructions.tex/add-E2": {
+    "label": "add-E2",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 749,
+      "lines-end": 750
+    },
+    "stub-proof": {
+      "lines-start": 752,
+      "lines-end": 769
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq854": {
+    "label": "eq854",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 166,
+      "lines-end": 168
+    },
+    "code-name": "probe:Equation953",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "eq1485"
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/metatheorems_from_invariants.tex/fundamental-property-of-invariants": {
+    "label": "fundamental-property-of-invariants",
+    "stub-type": "theorem",
+    "stub-path": "chapter/metatheorems_from_invariants.tex",
+    "stub-spec": {
+      "lines-start": 144,
+      "lines-end": 148
+    },
+    "stub-proof": {
+      "lines-start": 149,
+      "lines-end": 151
+    },
+    "spec-ok": false
+  },
+  "chapter/1516.tex/1516-ext-var": {
+    "label": "1516-ext-var",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 41,
+      "lines-end": 42
+    },
+    "stub-proof": {
+      "lines-start": 44,
+      "lines-end": 45
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/n-def_3": {
+    "label": "n-def_3",
+    "code-name": "probe:Eq1729.parent",
+    "spec-ok": true
+  },
+  "chapter/implications.tex/1571_impl_1": {
+    "label": "1571_impl_1",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation2662",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
     ],
-    "proof-dependencies": [
-      "1485-dual"
+    "proof-ok": true
+  },
+  "chapter/implications.tex/1571_impl_7": {
+    "label": "1571_impl_7",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation4512",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/abstract_nonsense.tex/477-lemma": {
+    "label": "477-lemma",
+    "stub-type": "lemma",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 154,
+      "lines-end": 156
+    },
+    "stub-proof": {
+      "lines-start": 158,
+      "lines-end": 169
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq4579": {
+    "label": "eq4579",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 294,
+      "lines-end": 296
+    },
+    "code-name": "probe:Equation4579",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/intro.tex/law-count-triv": {
+    "label": "law-count-triv",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 191,
+      "lines-end": 197
+    },
+    "stub-proof": {
+      "lines-start": 199,
+      "lines-end": 201
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/law-count-sym"
+    ]
+  },
+  "chapter/equations.tex/eq8": {
+    "label": "eq8",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 50,
+      "lines-end": 52
+    },
+    "code-name": "probe:Equation8",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/1571_impl_3": {
+    "label": "1571_impl_3",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation23",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/implications.tex/29_equiv_14": {
+    "label": "29_equiv_14",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 29,
+      "lines-end": 30
+    },
+    "code-name": "probe:Subgraph.Equation29_implies_Equation14",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq29",
+      "chapter/equations.tex/eq14"
     ]
   },
   "chapter/1516.tex/1516-base": {
+    "label": "1516-base",
+    "stub-type": "corollary",
     "stub-path": "chapter/1516.tex",
     "stub-spec": {
       "lines-start": 48,
       "lines-end": 54
     },
-    "labels": [
-      "1516-base"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
+    "spec-ok": false
   },
-  "chapter/1516.tex/part-exist": {
+  "chapter/1516.tex/axiom-c": {
+    "label": "axiom-c",
+    "stub-type": "proposition",
     "stub-path": "chapter/1516.tex",
     "stub-spec": {
-      "lines-start": 106,
-      "lines-end": 107
+      "lines-start": 157,
+      "lines-end": 158
     },
     "stub-proof": {
-      "lines-start": 109,
-      "lines-end": 119
+      "lines-start": 160,
+      "lines-end": 174
     },
-    "labels": [
-      "part-exist"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
+    "spec-ok": false
   },
-  "chapter/infinite_magma_constructions.tex/non-inject": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
+  "chapter/1729.tex/sm-def": {
+    "label": "sm-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/1729.tex",
     "stub-spec": {
-      "lines-start": 850,
-      "lines-end": 851
-    },
-    "stub-proof": {
-      "lines-start": 853,
-      "lines-end": 854
-    },
-    "labels": [
-      "non-inject"
-    ],
-    "code-name": "Eq63.Equation63_not_implies_Equation1692",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/intro.tex/law-def": {
-    "stub-path": "chapter/intro.tex",
-    "stub-spec": {
-      "lines-start": 61,
-      "lines-end": 70
-    },
-    "labels": [
-      "law-def"
-    ],
-    "code-name": "Law.MagmaLaw",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "induced-def"
-    ]
-  },
-  "chapter/infinite_models.tex/1167-1096": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 151,
-      "lines-end": 156
-    },
-    "stub-proof": {
-      "lines-start": 158,
-      "lines-end": 163
-    },
-    "labels": [
-      "1167-1096"
-    ],
-    "code-name": "Eq1133.Finite.Equation1167_implies_Equation1096",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
-  },
-  "chapter/implications.tex/953_equiv_2": {
-    "stub-path": "chapter/implications.tex",
-    "stub-spec": {
-      "lines-start": 158,
-      "lines-end": 159
-    },
-    "stub-proof": {
-      "lines-start": 161,
-      "lines-end": 167
-    },
-    "labels": [
-      "953_equiv_2"
-    ],
-    "code-name": "Subgraph.Equation953_implies_Equation2",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq953",
-      "eq2"
-    ],
-    "proof-ok": true
-  },
-  "chapter/854.tex/a0000000009": {
-    "stub-path": "chapter/854.tex",
-    "stub-spec": {
-      "lines-start": 170,
-      "lines-end": 171
-    },
-    "labels": [
-      "a0000000009"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
-  },
-  "chapter/equations.tex/eq1689": {
-    "stub-path": "chapter/equations.tex",
-    "stub-spec": {
-      "lines-start": 217,
-      "lines-end": 219
-    },
-    "labels": [
-      "eq1689"
-    ],
-    "code-name": "Equation1689",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/infinite_magma_constructions.tex/partial-solution": {
-    "stub-path": "chapter/infinite_magma_constructions.tex",
-    "stub-spec": {
-      "lines-start": 49,
+      "lines-start": 65,
       "lines-end": 66
     },
-    "labels": [
-      "partial-solution"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": []
+    "code-name": "probe:Eq1729.SM",
+    "spec-ok": true
   },
-  "chapter/implications.tex/natural-central-groupoid": {
-    "stub-path": "chapter/implications.tex",
+  "chapter/infinite_models.tex/finite_imp_3994_3588": {
+    "label": "finite_imp_3994_3588",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
     "stub-spec": {
-      "lines-start": 188,
-      "lines-end": 189
+      "lines-start": 113,
+      "lines-end": 116
     },
     "stub-proof": {
-      "lines-start": 191,
-      "lines-end": 221
+      "lines-start": 118,
+      "lines-end": 124
     },
-    "labels": [
-      "natural-central-groupoid"
-    ],
-    "spec-ok": false,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq26302"
-    ]
-  },
-  "chapter/abstract_nonsense.tex/freemag-exist": {
-    "stub-path": "chapter/abstract_nonsense.tex",
-    "stub-spec": {
-      "lines-start": 15,
-      "lines-end": 21
-    },
-    "labels": [
-      "freemag-exist"
-    ],
-    "code-name": "FreeMagma.EvalFreeMagmaWithLawsUniversalProperty",
+    "code-name": "probe:InfModel.Finite.Equation3994_implies_Equation3588",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "free-theory"
+      "chapter/equations.tex/eq3994",
+      "chapter/equations.tex/eq3588",
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/3342_2": {
+    "label": "3342_2",
+    "code-name": "probe:Eq3342.Finite.Equation3342_implies_Equation4118",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/infinite_models.tex/period"
     ]
   },
-  "chapter/equations.tex/eq2662": {
+  "chapter/equations.tex/eq381": {
+    "label": "eq381",
+    "stub-type": "definition",
     "stub-path": "chapter/equations.tex",
     "stub-spec": {
-      "lines-start": 229,
-      "lines-end": 231
+      "lines-start": 148,
+      "lines-end": 150
     },
-    "labels": [
-      "eq2662"
-    ],
-    "code-name": "Equation2662",
+    "code-name": "probe:Equation381",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "magma-def"
+      "chapter/intro.tex/magma-def"
     ]
   },
-  "chapter/1323.tex/greedy-1323": {
+  "chapter/1323.tex/partial-1323-sound": {
+    "label": "partial-1323-sound",
+    "stub-type": "lemma",
     "stub-path": "chapter/1323.tex",
     "stub-spec": {
-      "lines-start": 101,
-      "lines-end": 102
+      "lines-start": 91,
+      "lines-end": 96
     },
     "stub-proof": {
-      "lines-start": 104,
-      "lines-end": 109
+      "lines-start": 98,
+      "lines-end": 99
     },
-    "labels": [
-      "greedy-1323"
-    ],
-    "code-name": "Eq1323.extend",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
+    "spec-ok": false,
     "spec-dependencies": [
-      "partial-1323-sound"
+      "chapter/1323.tex/partial-1323"
     ]
   },
+  "chapter/rewriting.tex/a0000000004": {
+    "label": "a0000000004",
+    "stub-type": "theorem",
+    "stub-path": "chapter/rewriting.tex",
+    "stub-spec": {
+      "lines-start": 56,
+      "lines-end": 61
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq1701": {
+    "label": "eq1701",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 223,
+      "lines-end": 225
+    },
+    "code-name": "probe:Equation1701",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/dupont-iter": {
+    "label": "dupont-iter",
+    "stub-type": "corollary",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 847,
+      "lines-end": 848
+    },
+    "code-name": "probe:Eq63.Greedy.exists_extension",
+    "spec-ok": true
+  },
+  "chapter/infinite_models.tex/non_imp_3994_3588_thm": {
+    "label": "non_imp_3994_3588_thm",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 126,
+      "lines-end": 129
+    },
+    "stub-proof": {
+      "lines-start": 131,
+      "lines-end": 138
+    },
+    "code-name": "probe:InfModel.Equation3994_not_implies_Equation3588",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq3994",
+      "chapter/equations.tex/eq3588",
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-ok": true
+  },
+  "chapter/854.tex/854-equiv-2": {
+    "label": "854-equiv-2",
+    "stub-type": "lemma",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 150,
+      "lines-end": 157
+    },
+    "stub-proof": {
+      "lines-start": 159,
+      "lines-end": 168
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq4522": {
+    "label": "eq4522",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 282,
+      "lines-end": 284
+    },
+    "code-name": "probe:Equation4522",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq1661": {
+    "label": "eq1661",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 211,
+      "lines-end": 213
+    },
+    "code-name": "probe:Equation1661",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/1722-extension": {
+    "label": "1722-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 365,
+      "lines-end": 366
+    },
+    "stub-proof": {
+      "lines-start": 368,
+      "lines-end": 385
+    },
+    "code-name": "probe:Eq1722.Greedy.lift",
+    "spec-ok": true
+  },
+  "chapter/implications.tex/1689_equiv_2": {
+    "label": "1689_equiv_2",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 68,
+      "lines-end": 69
+    },
+    "stub-proof": {
+      "lines-start": 72,
+      "lines-end": 104
+    },
+    "spec-dependencies": [
+      "chapter/implications.tex/1689_equiv_2_1",
+      "chapter/implications.tex/1689_equiv_2_2"
+    ]
+  },
+  "chapter/abstract_nonsense.tex/free-theory": {
+    "label": "free-theory",
+    "stub-type": "definition",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 5,
+      "lines-end": 11
+    },
+    "code-name": "probe:FreeMagmaWithLaws",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def"
+    ]
+  },
+  "chapter/677.tex/677-obey": {
+    "label": "677-obey",
+    "stub-type": "corollary",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 150,
+      "lines-end": 151
+    },
+    "stub-proof": {
+      "lines-start": 153,
+      "lines-end": 154
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/l0-la": {
+    "label": "l0-la",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 115,
+      "lines-end": 120
+    },
+    "stub-proof": {
+      "lines-start": 122,
+      "lines-end": 123
+    },
+    "spec-dependencies": [
+      "chapter/1729.tex/l0-la_1",
+      "chapter/1729.tex/l0-la_2"
+    ]
+  },
+  "chapter/rewriting.tex/a0000000005": {
+    "label": "a0000000005",
+    "stub-type": "definition",
+    "stub-path": "chapter/rewriting.tex",
+    "stub-spec": {
+      "lines-start": 84,
+      "lines-end": 86
+    },
+    "spec-ok": false
+  },
+  "chapter/general_implications.tex/diag": {
+    "label": "diag",
+    "stub-type": "theorem",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 67,
+      "lines-end": 76
+    },
+    "stub-proof": {
+      "lines-start": 78,
+      "lines-end": 84
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq1491": {
+    "label": "eq1491",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 185,
+      "lines-end": 187
+    },
+    "code-name": "probe:Equation1491",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq3722": {
+    "label": "eq3722",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 248,
+      "lines-end": 250
+    },
+    "code-name": "probe:Equation3722",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/677.tex/a0000000000": {
+    "label": "a0000000000",
+    "stub-type": "corollary",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 156,
+      "lines-end": 157
+    },
+    "stub-proof": {
+      "lines-start": 159,
+      "lines-end": 162
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_magma_constructions.tex/1289-extension": {
+    "label": "1289-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 437,
+      "lines-end": 438
+    },
+    "stub-proof": {
+      "lines-start": 440,
+      "lines-end": 451
+    },
+    "code-name": "probe:Eq1289.Greedy.lift",
+    "spec-ok": true
+  },
   "chapter/1729.tex/sm-1729": {
+    "label": "sm-1729",
+    "stub-type": "lemma",
     "stub-path": "chapter/1729.tex",
     "stub-spec": {
       "lines-start": 68,
@@ -3856,213 +691,1162 @@
       "lines-start": 71,
       "lines-end": 72
     },
-    "labels": [
-      "sm-1729"
-    ],
-    "code-name": "Eq1729.SM_square_eq_double",
-    "lean-names": [
-      "Eq1729.SM_square_eq_double",
-      "Eq1729.SM_square_square_eq_zero",
-      "Eq1729.SM_obeys_1729"
-    ],
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true
+    "spec-dependencies": [
+      "chapter/1729.tex/sm-1729_1",
+      "chapter/1729.tex/sm-1729_2",
+      "chapter/1729.tex/sm-1729_3"
+    ]
   },
-  "chapter/infinite_models.tex/ffg": {
-    "stub-path": "chapter/infinite_models.tex",
+  "chapter/equations.tex/eq345169": {
+    "label": "eq345169",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
     "stub-spec": {
-      "lines-start": 91,
-      "lines-end": 92
+      "lines-start": 334,
+      "lines-end": 338
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/abstract_nonsense.tex/anti-impl": {
+    "label": "anti-impl",
+    "stub-type": "corollary",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 64,
+      "lines-end": 74
     },
     "stub-proof": {
-      "lines-start": 94,
-      "lines-end": 95
+      "lines-start": 76,
+      "lines-end": 78
     },
-    "labels": [
-      "ffg"
-    ],
-    "code-name": "FiniteModel.Finite.f_ffg_implies_f_fgf",
+    "spec-ok": false,
+    "proof-dependencies": [
+      "chapter/abstract_nonsense.tex/canonical-invariant"
+    ]
+  },
+  "chapter/intro.tex/sound-complete": {
+    "label": "sound-complete",
+    "stub-type": "theorem",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 109,
+      "lines-end": 112
+    },
+    "stub-proof": {
+      "lines-start": 114,
+      "lines-end": 117
+    },
+    "code-name": "probe:Completeness",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def",
+      "chapter/intro.tex/derivation-def"
+    ],
     "proof-ok": true
   },
-  "chapter/equations.tex/eq29": {
+  "chapter/1729.tex/partial-exist": {
+    "label": "partial-exist",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 182,
+      "lines-end": 183
+    },
+    "stub-proof": {
+      "lines-start": 185,
+      "lines-end": 186
+    },
+    "code-name": "probe:Eq1729.TrivialPartialSolution",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/part-sol"
+    ],
+    "proof-ok": true
+  },
+  "chapter/general_implications.tex/constant-impl": {
+    "label": "constant-impl",
+    "stub-type": "theorem",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 88,
+      "lines-end": 90
+    },
+    "stub-proof": {
+      "lines-start": 92,
+      "lines-end": 94
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/impl",
+      "chapter/equations.tex/eq46"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/partial-solution2": {
+    "label": "partial-solution2",
+    "stub-type": "definition",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 215,
+      "lines-end": 226
+    },
+    "spec-ok": false
+  },
+  "chapter/1323.tex/partial-1323": {
+    "label": "partial-1323",
+    "stub-type": "definition",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 87,
+      "lines-end": 89
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq14": {
+    "label": "eq14",
+    "stub-type": "definition",
     "stub-path": "chapter/equations.tex",
     "stub-spec": {
-      "lines-start": 70,
-      "lines-end": 72
+      "lines-start": 54,
+      "lines-end": 56
     },
-    "labels": [
-      "eq29"
-    ],
-    "code-name": "Equation29",
+    "code-name": "probe:Equation14",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "magma-def"
+      "chapter/intro.tex/magma-def"
     ]
   },
-  "chapter/equations.tex/eq63": {
+  "chapter/equations.tex/eq2662": {
+    "label": "eq2662",
+    "stub-type": "definition",
     "stub-path": "chapter/equations.tex",
     "stub-spec": {
-      "lines-start": 124,
-      "lines-end": 126
+      "lines-start": 229,
+      "lines-end": 231
     },
-    "labels": [
-      "eq63"
-    ],
-    "code-name": "Equation63",
+    "code-name": "probe:Equation2662",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "magma-def"
+      "chapter/intro.tex/magma-def"
     ]
   },
-  "chapter/implications.tex/29_equiv_14": {
-    "stub-path": "chapter/implications.tex",
+  "chapter/677.tex/677-basic": {
+    "label": "677-basic",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
     "stub-spec": {
-      "lines-start": 29,
-      "lines-end": 30
+      "lines-start": 18,
+      "lines-end": 24
     },
-    "labels": [
-      "29_equiv_14"
-    ],
-    "code-name": "Subgraph.Equation29_implies_Equation14",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "eq29",
-      "eq14"
-    ]
+    "stub-proof": {
+      "lines-start": 26,
+      "lines-end": 33
+    },
+    "spec-ok": false
   },
-  "chapter/854.tex/unique-factorization": {
+  "chapter/854.tex/854-extend": {
+    "label": "854-extend",
+    "stub-type": "proposition",
     "stub-path": "chapter/854.tex",
     "stub-spec": {
-      "lines-start": 67,
-      "lines-end": 68
+      "lines-start": 195,
+      "lines-end": 196
     },
     "stub-proof": {
-      "lines-start": 70,
-      "lines-end": 71
+      "lines-start": 198,
+      "lines-end": 227
     },
-    "labels": [
-      "unique-factorization"
-    ],
-    "code-name": "Refutation_854.unique_factorization",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "irred-desc"
+    "code-name": "probe:Refutation_854.Greedy.Extension1.next_ok",
+    "spec-ok": true
+  },
+  "chapter/1729.tex/n-prop": {
+    "label": "n-prop",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 81,
+      "lines-end": 82
+    },
+    "stub-proof": {
+      "lines-start": 84,
+      "lines-end": 85
+    },
+    "spec-dependencies": [
+      "chapter/1729.tex/n-prop_1",
+      "chapter/1729.tex/n-prop_2"
     ]
   },
+  "chapter/general_implications.tex/pre-order": {
+    "label": "pre-order",
+    "stub-type": "lemma",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 10,
+      "lines-end": 12
+    },
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/impl"
+    ]
+  },
+  "chapter/intro.tex/law-count-sym": {
+    "label": "law-count-sym",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 171,
+      "lines-end": 177
+    },
+    "stub-proof": {
+      "lines-start": 179,
+      "lines-end": 181
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/push"
+    ]
+  },
+  "chapter/infinite_models.tex/1441-4067-1443-3055_2": {
+    "label": "1441-4067-1443-3055_2",
+    "code-name": "probe:Eq1441.Finite.Equation1443_implies_Equation3055",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/equations.tex/eq3744": {
+    "label": "eq3744",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 254,
+      "lines-end": 256
+    },
+    "code-name": "probe:Equation3744",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/14_implies_29": {
+    "label": "14_implies_29",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 41,
+      "lines-end": 42
+    },
+    "code-name": "probe:Subgraph.Equation14_implies_Equation29",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq29",
+      "chapter/equations.tex/eq14"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/add-E1": {
+    "label": "add-E1",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 704,
+      "lines-end": 705
+    },
+    "stub-proof": {
+      "lines-start": 707,
+      "lines-end": 746
+    },
+    "spec-ok": false
+  },
+  "chapter/854.tex/a0000000009": {
+    "label": "a0000000009",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 170,
+      "lines-end": 171
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq1571": {
+    "label": "eq1571",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 191,
+      "lines-end": 193
+    },
+    "code-name": "probe:Equation1571",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/1729.tex/ra-prop_1": {
+    "label": "ra-prop_1",
+    "code-name": "probe:Eq1729.R'_axiom_iia",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/ra-defn"
+    ],
+    "proof-ok": true
+  },
+  "chapter/implications.tex/1571_impl_6": {
+    "label": "1571_impl_6",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation43",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/equations.tex/eq4": {
+    "label": "eq4",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 26,
+      "lines-end": 28
+    },
+    "code-name": "probe:Equation4",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/a0000000007": {
+    "label": "a0000000007",
+    "stub-type": "corollary",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 254,
+      "lines-end": 256
+    },
+    "stub-proof": {
+      "lines-start": 257,
+      "lines-end": 263
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq65",
+      "chapter/equations.tex/eq1491",
+      "chapter/infinite_magma_constructions.tex/obelix-extend"
+    ]
+  },
+  "chapter/infinite_models.tex/kis-thm": {
+    "label": "kis-thm",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 13,
+      "lines-end": 17
+    },
+    "stub-proof": {
+      "lines-start": 19,
+      "lines-end": 42
+    },
+    "spec-dependencies": [
+      "chapter/infinite_models.tex/kis-thm_1",
+      "chapter/infinite_models.tex/kis-thm_2"
+    ]
+  },
+  "chapter/abstract_nonsense.tex/canonical-invariant": {
+    "label": "canonical-invariant",
+    "stub-type": "theorem",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 51,
+      "lines-end": 56
+    },
+    "stub-proof": {
+      "lines-start": 58,
+      "lines-end": 60
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/abstract_nonsense.tex/free-theory"
+    ],
+    "proof-dependencies": [
+      "chapter/abstract_nonsense.tex/freemag-exist"
+    ]
+  },
+  "chapter/1729.tex/n-def_1": {
+    "label": "n-def_1",
+    "code-name": "probe:Eq1729.N",
+    "spec-ok": true
+  },
+  "chapter/equations.tex/eq168": {
+    "label": "eq168",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 136,
+      "lines-end": 138
+    },
+    "code-name": "probe:Equation168",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/partial-solution": {
+    "label": "partial-solution",
+    "stub-type": "definition",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 49,
+      "lines-end": 66
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq3167": {
+    "label": "eq3167",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 235,
+      "lines-end": 237
+    },
+    "code-name": "probe:Equation3167",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/general_implications.tex/variable-impl": {
+    "label": "variable-impl",
+    "stub-type": "theorem",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 96,
+      "lines-end": 98
+    },
+    "stub-proof": {
+      "lines-start": 100,
+      "lines-end": 102
+    },
+    "code-name": "probe:Law.MagmaLaw.SameCount.derive",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/impl"
+    ]
+  },
+  "chapter/1729.tex/Eq1729.reduce_to_new_axioms": {
+    "label": "Eq1729.reduce_to_new_axioms",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 134,
+      "lines-end": 135
+    },
+    "stub-proof": {
+      "lines-start": 137,
+      "lines-end": 138
+    },
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/l0-la",
+      "chapter/1729.tex/ra-prop",
+      "chapter/1729.tex/mag"
+    ]
+  },
+  "chapter/implications.tex/1571_impl_4": {
+    "label": "1571_impl_4",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation8",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/1167-1096": {
+    "label": "1167-1096",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 151,
+      "lines-end": 156
+    },
+    "stub-proof": {
+      "lines-start": 158,
+      "lines-end": 163
+    },
+    "code-name": "probe:Eq1133.Finite.Equation1167_implies_Equation1096",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/weak_central_groupoids.tex/1485-refutes_3": {
+    "label": "1485-refutes_3",
+    "code-name": "probe:Refutation_1485.not_2087_2124",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ],
+    "proof-dependencies": [
+      "chapter/weak_central_groupoids.tex/greedy-prop",
+      "chapter/weak_central_groupoids.tex/rev-claim"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/a0000000008": {
+    "label": "a0000000008",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 858,
+      "lines-end": 868
+    },
+    "stub-proof": {
+      "lines-start": 870,
+      "lines-end": 896
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq374794": {
+    "label": "eq374794",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 342,
+      "lines-end": 347
+    },
+    "code-name": "probe:Equation374794",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/1441-4067-1443-3055": {
+    "label": "1441-4067-1443-3055",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 189,
+      "lines-end": 198
+    },
+    "stub-proof": {
+      "lines-start": 200,
+      "lines-end": 204
+    },
+    "spec-dependencies": [
+      "chapter/infinite_models.tex/1441-4067-1443-3055_1",
+      "chapter/infinite_models.tex/1441-4067-1443-3055_2"
+    ]
+  },
+  "chapter/equations.tex/eq1689": {
+    "label": "eq1689",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 217,
+      "lines-end": 219
+    },
+    "code-name": "probe:Equation1689",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/intro.tex/equiv": {
+    "label": "equiv",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 142,
+      "lines-end": 145
+    },
+    "stub-proof": {
+      "lines-start": 147,
+      "lines-end": 149
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/law-def"
+    ]
+  },
+  "chapter/1323.tex/build-magma": {
+    "label": "build-magma",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 37,
+      "lines-end": 60
+    },
+    "stub-proof": {
+      "lines-start": 62,
+      "lines-end": 85
+    },
+    "code-name": "probe:Eq1323.op",
+    "spec-ok": true,
+    "proof-dependencies": [
+      "chapter/1323.tex/bij"
+    ]
+  },
+  "chapter/abstract_nonsense.tex/confluent-theory": {
+    "label": "confluent-theory",
+    "stub-type": "definition",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 100,
+      "lines-end": 102
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/free-magma-def"
+    ]
+  },
+  "chapter/general_implications.tex/impl": {
+    "label": "impl",
+    "stub-type": "definition",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 4,
+      "lines-end": 8
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def"
+    ]
+  },
+  "chapter/equations.tex/eq4564": {
+    "label": "eq4564",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 288,
+      "lines-end": 290
+    },
+    "code-name": "probe:Equation4564",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq3994": {
+    "label": "eq3994",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 260,
+      "lines-end": 264
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/854.tex/854-equiv": {
+    "label": "854-equiv",
+    "stub-type": "lemma",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 132,
+      "lines-end": 143
+    },
+    "stub-proof": {
+      "lines-start": 145,
+      "lines-end": 146
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq7": {
+    "label": "eq7",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 44,
+      "lines-end": 46
+    },
+    "code-name": "probe:Equation7",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/5093-nontrivial": {
+    "label": "5093-nontrivial",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 72,
+      "lines-end": 73
+    },
+    "stub-proof": {
+      "lines-start": 75,
+      "lines-end": 77
+    },
+    "code-name": "probe:InfModel.Finite.Equation5093_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq5093",
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-ok": true
+  },
   "chapter/equations.tex/eq1": {
+    "label": "eq1",
+    "stub-type": "definition",
     "stub-path": "chapter/equations.tex",
     "stub-spec": {
       "lines-start": 7,
       "lines-end": 9
     },
-    "labels": [
-      "eq1"
-    ],
-    "code-name": "Equation1",
+    "code-name": "probe:Equation1",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "magma-def"
+      "chapter/intro.tex/magma-def"
     ]
   },
-  "chapter/equations.tex/eq387": {
-    "stub-path": "chapter/equations.tex",
+  "chapter/854.tex/854-anti": {
+    "label": "854-anti",
+    "stub-type": "theorem",
+    "stub-path": "chapter/854.tex",
     "stub-spec": {
-      "lines-start": 154,
-      "lines-end": 156
-    },
-    "labels": [
-      "eq387"
-    ],
-    "code-name": "Equation387",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "magma-def"
-    ]
-  },
-  "chapter/1729.tex/part-sol": {
-    "stub-path": "chapter/1729.tex",
-    "stub-spec": {
-      "lines-start": 156,
-      "lines-end": 180
-    },
-    "labels": [
-      "part-sol"
-    ],
-    "code-name": "Eq1729.PartialSolution",
-    "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [
-      "sm-def",
-      "n-def"
-    ]
-  },
-  "chapter/infinite_models.tex/3342": {
-    "stub-path": "chapter/infinite_models.tex",
-    "stub-spec": {
-      "lines-start": 140,
-      "lines-end": 142
+      "lines-start": 83,
+      "lines-end": 92
     },
     "stub-proof": {
-      "lines-start": 144,
-      "lines-end": 149
+      "lines-start": 94,
+      "lines-end": 126
     },
-    "labels": [
-      "3342"
-    ],
-    "code-name": "Eq3342.Finite.Equation3342_implies_Equation3522",
-    "lean-names": [
-      "Eq3342.Finite.Equation3342_implies_Equation3522",
-      "Eq3342.Finite.Equation3342_implies_Equation4118"
-    ],
+    "code-name": "probe:Refutation_854.not_3316_3925",
+    "spec-ok": true
+  },
+  "chapter/infinite_models.tex/1681-3877-1701-1035_2": {
+    "label": "1681-3877-1701-1035_2",
+    "code-name": "probe:Eq1441.Finite.Equation1701_implies_Equation1035",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
-    "proof-ok": true,
-    "proof-dependencies": [
-      "period"
+    "proof-ok": true
+  },
+  "chapter/infinite_magma_constructions.tex/obelix-extend": {
+    "label": "obelix-extend",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 233,
+      "lines-end": 235
+    },
+    "stub-proof": {
+      "lines-start": 236,
+      "lines-end": 248
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/infinite_magma_constructions.tex/partial-solution2"
     ]
   },
-  "chapter/abstract_nonsense.tex/free-theory": {
+  "chapter/854.tex/irred-desc": {
+    "label": "irred-desc",
+    "stub-type": "theorem",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 38,
+      "lines-end": 56
+    },
+    "stub-proof": {
+      "lines-start": 58,
+      "lines-end": 63
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq854"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/no-inject": {
+    "label": "no-inject",
+    "stub-type": "corollary",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 154,
+      "lines-end": 155
+    },
+    "stub-proof": {
+      "lines-start": 157,
+      "lines-end": 178
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_magma_constructions.tex/1437-thm": {
+    "label": "1437-thm",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 927,
+      "lines-end": 931
+    },
+    "stub-proof": {
+      "lines-start": 933,
+      "lines-end": 944
+    },
+    "spec-ok": false
+  },
+  "chapter/1516.tex/axiom-b": {
+    "label": "axiom-b",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 147,
+      "lines-end": 148
+    },
+    "stub-proof": {
+      "lines-start": 150,
+      "lines-end": 153
+    },
+    "spec-ok": false
+  },
+  "chapter/rewriting.tex/a0000000002": {
+    "label": "a0000000002",
+    "stub-type": "definition",
+    "stub-path": "chapter/rewriting.tex",
+    "stub-spec": {
+      "lines-start": 24,
+      "lines-end": 34
+    },
+    "spec-ok": false
+  },
+  "chapter/weak_central_groupoids.tex/claim-4": {
+    "label": "claim-4",
+    "stub-type": "lemma",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 45,
+      "lines-end": 47
+    },
+    "stub-proof": {
+      "lines-start": 49,
+      "lines-end": 53
+    },
+    "code-name": "probe:WeakCentralGroupoid.isGood_five",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ],
+    "proof-dependencies": [
+      "chapter/weak_central_groupoids.tex/graph-dual"
+    ]
+  },
+  "chapter/implications.tex/natural-central-groupoid": {
+    "label": "natural-central-groupoid",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 188,
+      "lines-end": 189
+    },
+    "stub-proof": {
+      "lines-start": 191,
+      "lines-end": 221
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq26302"
+    ]
+  },
+  "chapter/equations.tex/eq42": {
+    "label": "eq42",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 100,
+      "lines-end": 102
+    },
+    "code-name": "probe:Equation42",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq6": {
+    "label": "eq6",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 38,
+      "lines-end": 40
+    },
+    "code-name": "probe:Equation6",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq65": {
+    "label": "eq65",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 130,
+      "lines-end": 132
+    },
+    "code-name": "probe:Equation65",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/abstract_nonsense.tex/freemag-exist": {
+    "label": "freemag-exist",
+    "stub-type": "theorem",
     "stub-path": "chapter/abstract_nonsense.tex",
     "stub-spec": {
-      "lines-start": 5,
-      "lines-end": 11
+      "lines-start": 15,
+      "lines-end": 21
     },
-    "labels": [
-      "free-theory"
-    ],
-    "code-name": "FreeMagmaWithLaws",
+    "code-name": "probe:FreeMagma.EvalFreeMagmaWithLawsUniversalProperty",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
     "spec-dependencies": [
-      "models-def"
+      "chapter/abstract_nonsense.tex/free-theory"
+    ]
+  },
+  "chapter/1323.tex/bij": {
+    "label": "bij",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 27,
+      "lines-end": 30
+    },
+    "stub-proof": {
+      "lines-start": 32,
+      "lines-end": 34
+    },
+    "code-name": "probe:Eq1323.ϕ",
+    "spec-ok": true
+  },
+  "chapter/1729.tex/ra-defn": {
+    "label": "ra-defn",
+    "stub-type": "definition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 89,
+      "lines-end": 94
+    },
+    "code-name": "probe:Eq1729.R'",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/sm-def",
+      "chapter/1729.tex/n-def"
+    ]
+  },
+  "chapter/implications.tex/3744_implies_3722_381_1": {
+    "label": "3744_implies_3722_381_1",
+    "code-name": "probe:Subgraph.Equation3744_implies_Equation3722",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq3744",
+      "chapter/equations.tex/eq3722",
+      "chapter/equations.tex/eq381"
+    ],
+    "proof-ok": true
+  },
+  "chapter/abstract_nonsense.tex/confluent-anti-impl": {
+    "label": "confluent-anti-impl",
+    "stub-type": "corollary",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 126,
+      "lines-end": 128
+    },
+    "stub-proof": {
+      "lines-start": 130,
+      "lines-end": 132
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-dependencies": [
+      "chapter/abstract_nonsense.tex/free-confluent",
+      "chapter/abstract_nonsense.tex/anti-impl"
+    ]
+  },
+  "chapter/equations.tex/eq1657": {
+    "label": "eq1657",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 203,
+      "lines-end": 205
+    },
+    "code-name": "probe:Equation1657",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/387_implies_43": {
+    "label": "387_implies_43",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 5,
+      "lines-end": 6
+    },
+    "stub-proof": {
+      "lines-start": 8,
+      "lines-end": 27
+    },
+    "code-name": "probe:Subgraph.Equation387_implies_Equation43",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq387",
+      "chapter/equations.tex/eq43"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/gff": {
+    "label": "gff",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 97,
+      "lines-end": 98
+    },
+    "stub-proof": {
+      "lines-start": 100,
+      "lines-end": 101
+    },
+    "code-name": "probe:FiniteModel.Finite.f_gff_implies_f_fgf",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/906.tex/906-3862": {
+    "label": "906-3862",
+    "stub-type": "theorem",
+    "stub-path": "chapter/906.tex",
+    "stub-spec": {
+      "lines-start": 27,
+      "lines-end": 32
+    },
+    "stub-proof": {
+      "lines-start": 34,
+      "lines-end": 43
+    },
+    "code-name": "probe:Eq906.Finite.Equation906_implies_Equation3862",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/906.tex/edge-disjoint"
+    ]
+  },
+  "chapter/1729.tex/l0-la_2": {
+    "label": "l0-la_2",
+    "code-name": "probe:Eq1729.L'_0_eq_L₀'",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/1729.tex/enlarge-l0-many": {
+    "label": "enlarge-l0-many",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 210,
+      "lines-end": 211
+    },
+    "stub-proof": {
+      "lines-start": 213,
+      "lines-end": 214
+    },
+    "code-name": "probe:Eq1729.enlarge_L₀'_multiple",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/enlarge-l0"
+    ]
+  },
+  "chapter/1323.tex/1323-construct": {
+    "label": "1323-construct",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 11,
+      "lines-end": 20
+    },
+    "stub-proof": {
+      "lines-start": 22,
+      "lines-end": 23
+    },
+    "code-name": "probe:Eq1323.eq1323_if_conditions",
+    "spec-ok": true
+  },
+  "chapter/equations.tex/eq4513": {
+    "label": "eq4513",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 278,
+      "lines-end": 280
+    },
+    "code-name": "probe:Equation4513",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/intro.tex/models-def": {
+    "label": "models-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 82,
+      "lines-end": 89
+    },
+    "code-name": "probe:models",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/law-def"
+    ]
+  },
+  "chapter/general_implications.tex/minimal": {
+    "label": "minimal",
+    "stub-type": "lemma",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 37,
+      "lines-end": 39
+    },
+    "stub-proof": {
+      "lines-start": 41,
+      "lines-end": 43
+    },
+    "code-name": "probe:Law.MagmaLaw.Equation2_minimal",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/pre-order"
+    ]
+  },
+  "chapter/equations.tex/eq3": {
+    "label": "eq3",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 20,
+      "lines-end": 22
+    },
+    "code-name": "probe:Equation3",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
     ]
   },
   "chapter/infinite_models.tex/1681-3877-1701-1035": {
+    "label": "1681-3877-1701-1035",
+    "stub-type": "proposition",
     "stub-path": "chapter/infinite_models.tex",
     "stub-spec": {
       "lines-start": 206,
@@ -4072,18 +1856,1760 @@
       "lines-start": 217,
       "lines-end": 221
     },
-    "labels": [
-      "1681-3877-1701-1035"
-    ],
-    "code-name": "Eq1441.Finite.Equation1681_implies_Equation3877",
-    "lean-names": [
-      "Eq1441.Finite.Equation1681_implies_Equation3877",
-      "Eq1441.Finite.Equation1701_implies_Equation1035"
-    ],
+    "spec-dependencies": [
+      "chapter/infinite_models.tex/1681-3877-1701-1035_1",
+      "chapter/infinite_models.tex/1681-3877-1701-1035_2"
+    ]
+  },
+  "chapter/rewriting.tex/a0000000003": {
+    "label": "a0000000003",
+    "stub-type": "lemma",
+    "stub-path": "chapter/rewriting.tex",
+    "stub-spec": {
+      "lines-start": 38,
+      "lines-end": 40
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_models.tex/1441-4067-1443-3055_1": {
+    "label": "1441-4067-1443-3055_1",
+    "code-name": "probe:Eq1441.Finite.Equation1441_implies_Equation4067",
     "spec-ok": true,
-    "mathlib-ok": false,
-    "not-ready": false,
-    "spec-dependencies": [],
     "proof-ok": true
+  },
+  "chapter/1729.tex/n-prop_1": {
+    "label": "n-prop_1",
+    "code-name": "probe:Eq1729.N_countable",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/n-def"
+    ],
+    "proof-ok": true
+  },
+  "chapter/implications.tex/sheffer": {
+    "label": "sheffer",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 170,
+      "lines-end": 172
+    },
+    "stub-proof": {
+      "lines-start": 174,
+      "lines-end": 182
+    },
+    "code-name": "probe:Sheffer.Equation345169_is_Boolean",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq345169"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/3342": {
+    "label": "3342",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 140,
+      "lines-end": 142
+    },
+    "stub-proof": {
+      "lines-start": 144,
+      "lines-end": 149
+    },
+    "spec-dependencies": [
+      "chapter/infinite_models.tex/3342_1",
+      "chapter/infinite_models.tex/3342_2"
+    ]
+  },
+  "chapter/854.tex/free-854": {
+    "label": "free-854",
+    "stub-type": "theorem",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 310,
+      "lines-end": 311
+    },
+    "stub-proof": {
+      "lines-start": 313,
+      "lines-end": 377
+    },
+    "spec-ok": false
+  },
+  "chapter/854.tex/unique-factorization": {
+    "label": "unique-factorization",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 67,
+      "lines-end": 68
+    },
+    "stub-proof": {
+      "lines-start": 70,
+      "lines-end": 71
+    },
+    "code-name": "probe:Refutation_854.unique_factorization",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/854.tex/irred-desc"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/finite-check": {
+    "label": "finite-check",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 795,
+      "lines-end": 796
+    },
+    "stub-proof": {
+      "lines-start": 798,
+      "lines-end": 799
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/enlarge-S-induct-axioms": {
+    "label": "enlarge-S-induct-axioms",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 218,
+      "lines-end": 225
+    },
+    "stub-proof": {
+      "lines-start": 227,
+      "lines-end": 250
+    },
+    "code-name": "probe:Eq1729.enlarge_S'_induction_with_axioms",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/equations.tex/eq5": {
+    "label": "eq5",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 32,
+      "lines-end": 34
+    },
+    "code-name": "probe:Equation5",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq4315": {
+    "label": "eq4315",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 268,
+      "lines-end": 270
+    },
+    "code-name": "probe:Equation4315",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/1729.tex/sm-1729_1": {
+    "label": "sm-1729_1",
+    "code-name": "probe:Eq1729.SM_square_eq_double",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/austin-two": {
+    "label": "austin-two",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 81,
+      "lines-end": 82
+    },
+    "stub-proof": {
+      "lines-start": 84,
+      "lines-end": 85
+    },
+    "code-name": "probe:InfModel.Finite.two_variable_laws",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-ok": true
+  },
+  "chapter/implications.tex/1571_impl_5": {
+    "label": "1571_impl_5",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation16",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_magma_constructions.tex/63-extension": {
+    "label": "63-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 496,
+      "lines-end": 497
+    },
+    "stub-proof": {
+      "lines-start": 498,
+      "lines-end": 527
+    },
+    "spec-ok": false
+  },
+  "chapter/weak_central_groupoids.tex/rev-claim": {
+    "label": "rev-claim",
+    "stub-type": "lemma",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 57,
+      "lines-end": 59
+    },
+    "stub-proof": {
+      "lines-start": 61,
+      "lines-end": 65
+    },
+    "code-name": "probe:RelaxedWeakCentralGroupoid.strictify",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/weak_central_groupoids.tex/claim-4"
+    ]
+  },
+  "chapter/854.tex/854-413": {
+    "label": "854-413",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 238,
+      "lines-end": 239
+    },
+    "stub-proof": {
+      "lines-start": 241,
+      "lines-end": 246
+    },
+    "code-name": "probe:Refutation_854.not_413_1045",
+    "spec-ok": true
+  },
+  "chapter/equations.tex/eq46": {
+    "label": "eq46",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 118,
+      "lines-end": 120
+    },
+    "code-name": "probe:Equation46",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/1689_equiv_2_2": {
+    "label": "1689_equiv_2_2",
+    "code-name": "probe:Subgraph.Equation2_implies_Equation1689",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1689",
+      "chapter/equations.tex/eq2"
+    ],
+    "proof-ok": true
+  },
+  "chapter/1516.tex/first-ext": {
+    "label": "first-ext",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 123,
+      "lines-end": 124
+    },
+    "stub-proof": {
+      "lines-start": 126,
+      "lines-end": 128
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_magma_constructions.tex/asterix-obelix-finite": {
+    "label": "asterix-obelix-finite",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 188,
+      "lines-end": 189
+    },
+    "stub-proof": {
+      "lines-start": 191,
+      "lines-end": 196
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq65",
+      "chapter/equations.tex/eq1491"
+    ]
+  },
+  "chapter/1729.tex/n-prop_2": {
+    "label": "n-prop_2",
+    "code-name": "probe:Eq1729.N_order",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/n-def"
+    ],
+    "proof-ok": true
+  },
+  "chapter/rewriting.tex/a0000000006": {
+    "label": "a0000000006",
+    "stub-type": "theorem",
+    "stub-path": "chapter/rewriting.tex",
+    "stub-spec": {
+      "lines-start": 90,
+      "lines-end": 92
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_magma_constructions.tex/713-extension": {
+    "label": "713-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 407,
+      "lines-end": 408
+    },
+    "stub-proof": {
+      "lines-start": 410,
+      "lines-end": 419
+    },
+    "code-name": "probe:Eq1722.Greedy.lift",
+    "spec-ok": true
+  },
+  "chapter/metatheorems_from_invariants.tex/lifting-magma-family": {
+    "label": "lifting-magma-family",
+    "stub-type": "definition",
+    "stub-path": "chapter/metatheorems_from_invariants.tex",
+    "stub-spec": {
+      "lines-start": 114,
+      "lines-end": 120
+    },
+    "code-name": "probe:LiftingMagmaFamily",
+    "spec-ok": true
+  },
+  "chapter/intro.tex/compactness-thm": {
+    "label": "compactness-thm",
+    "stub-type": "corollary",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 119,
+      "lines-end": 122
+    },
+    "stub-proof": {
+      "lines-start": 124,
+      "lines-end": 126
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/models-def"
+    ],
+    "proof-dependencies": [
+      "chapter/intro.tex/sound-complete"
+    ]
+  },
+  "chapter/equations.tex/eq3588": {
+    "label": "eq3588",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 240,
+      "lines-end": 244
+    },
+    "code-name": "probe:Equation3588",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/intro.tex/push": {
+    "label": "push",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 128,
+      "lines-end": 132
+    },
+    "stub-proof": {
+      "lines-start": 134,
+      "lines-end": 136
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/law-def"
+    ]
+  },
+  "chapter/egraphs.tex/14_implies_23": {
+    "label": "14_implies_23",
+    "stub-type": "theorem",
+    "stub-path": "chapter/egraphs.tex",
+    "stub-spec": {
+      "lines-start": 25,
+      "lines-end": 26
+    },
+    "stub-proof": {
+      "lines-start": 28,
+      "lines-end": 31
+    },
+    "code-name": "probe:Subgraph.Equation14_implies_Equation23",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq14"
+    ],
+    "proof-ok": true
+  },
+  "chapter/1729.tex/n-def_2": {
+    "label": "n-def_2",
+    "code-name": "probe:Eq1729.N_order",
+    "spec-ok": true
+  },
+  "chapter/1516.tex/1516-no-255": {
+    "label": "1516-no-255",
+    "stub-type": "corollary",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 176,
+      "lines-end": 177
+    },
+    "stub-proof": {
+      "lines-start": 179,
+      "lines-end": 184
+    },
+    "spec-ok": false
+  },
+  "chapter/854.tex/free-relate": {
+    "label": "free-relate",
+    "stub-type": "definition",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 291,
+      "lines-end": 300
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_models.tex/kis-thm_1": {
+    "label": "kis-thm_1",
+    "code-name": "probe:InfModel.Finite.Equation374794_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq374794",
+      "chapter/equations.tex/eq2"
+    ],
+    "proof-ok": true
+  },
+  "chapter/1729.tex/enlarge-l0": {
+    "label": "enlarge-l0",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 198,
+      "lines-end": 199
+    },
+    "stub-proof": {
+      "lines-start": 201,
+      "lines-end": 206
+    },
+    "code-name": "probe:Eq1729.enlarge_L₀'",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/infinite_models.tex/1133-1167": {
+    "label": "1133-1167",
+    "stub-type": "proposition",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 165,
+      "lines-end": 170
+    },
+    "stub-proof": {
+      "lines-start": 172,
+      "lines-end": 187
+    },
+    "code-name": "probe:Eq1133.Finite.Equation1133_implies_Equation1167",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/weak_central_groupoids.tex/graph-dual": {
+    "label": "graph-dual",
+    "stub-type": "lemma",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 27,
+      "lines-end": 29
+    },
+    "stub-proof": {
+      "lines-start": 31,
+      "lines-end": 35
+    },
+    "code-name": "probe:WeakCentralGroupoid.Path.def'",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ],
+    "proof-dependencies": [
+      "chapter/weak_central_groupoids.tex/1485-dual"
+    ]
+  },
+  "chapter/854.tex/graph-desc": {
+    "label": "graph-desc",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 73,
+      "lines-end": 74
+    },
+    "stub-proof": {
+      "lines-start": 76,
+      "lines-end": 77
+    },
+    "spec-ok": false,
+    "proof-dependencies": [
+      "chapter/854.tex/irred-desc"
+    ]
+  },
+  "chapter/intro.tex/magma-def": {
+    "label": "magma-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 2,
+      "lines-end": 6
+    },
+    "code-name": "probe:Magma",
+    "spec-ok": true
+  },
+  "chapter/677.tex/op-prop": {
+    "label": "op-prop",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 130,
+      "lines-end": 135
+    },
+    "spec-ok": false
+  },
+  "chapter/854.tex/854-relation": {
+    "label": "854-relation",
+    "stub-type": "lemma",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 264,
+      "lines-end": 272
+    },
+    "stub-proof": {
+      "lines-start": 274,
+      "lines-end": 287
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/chain": {
+    "label": "chain",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 188,
+      "lines-end": 190
+    },
+    "stub-proof": {
+      "lines-start": 192,
+      "lines-end": 193
+    },
+    "code-name": "probe:Eq1729.use_chain",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/part-sol"
+    ],
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/Eq1729.reduce_to_new_axioms"
+    ]
+  },
+  "chapter/equations.tex/eq41": {
+    "label": "eq41",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 94,
+      "lines-end": 96
+    },
+    "code-name": "probe:Equation41",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq23": {
+    "label": "eq23",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 64,
+      "lines-end": 66
+    },
+    "code-name": "probe:Equation23",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/intro.tex/a0000000010": {
+    "label": "a0000000010",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 36,
+      "lines-end": 38
+    },
+    "stub-proof": {
+      "lines-start": 40,
+      "lines-end": 42
+    },
+    "code-name": "probe:FreeMagma.elementsOfNumNodesEq_card_eq_catalan_mul_pow",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/1323.tex/greedy-iterate": {
+    "label": "greedy-iterate",
+    "stub-type": "corollary",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 111,
+      "lines-end": 112
+    },
+    "stub-proof": {
+      "lines-start": 114,
+      "lines-end": 115
+    },
+    "code-name": "probe:Eq1323.exists_complete_function",
+    "spec-ok": true,
+    "proof-dependencies": [
+      "chapter/1323.tex/greedy-1323",
+      "chapter/1323.tex/build-magma",
+      "chapter/1323.tex/partial-1323-sound"
+    ]
+  },
+  "chapter/implications.tex/1689_equiv_2_1": {
+    "label": "1689_equiv_2_1",
+    "code-name": "probe:Subgraph.Equation1689_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1689",
+      "chapter/equations.tex/eq2"
+    ],
+    "proof-ok": true
+  },
+  "chapter/equations.tex/eq28770": {
+    "label": "eq28770",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 326,
+      "lines-end": 330
+    },
+    "code-name": "probe:Equation28770",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/1729.tex/sm-1729_3": {
+    "label": "sm-1729_3",
+    "code-name": "probe:Eq1729.SM_obeys_1729",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/1516.tex/part-exist": {
+    "label": "part-exist",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 106,
+      "lines-end": 107
+    },
+    "stub-proof": {
+      "lines-start": 109,
+      "lines-end": 119
+    },
+    "spec-ok": false
+  },
+  "chapter/1516.tex/1516-seed": {
+    "label": "1516-seed",
+    "stub-type": "definition",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 20,
+      "lines-end": 29
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/ra-prop_2": {
+    "label": "ra-prop_2",
+    "code-name": "probe:Eq1729.R'_axiom_iib",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1729.tex/ra-defn"
+    ],
+    "proof-ok": true
+  },
+  "chapter/854.tex/extend-854": {
+    "label": "extend-854",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 231,
+      "lines-end": 233
+    },
+    "stub-proof": {
+      "lines-start": 235,
+      "lines-end": 236
+    },
+    "code-name": "probe:Refutation_854.Greedy.exists_extension",
+    "spec-ok": true
+  },
+  "chapter/equations.tex/eq4582": {
+    "label": "eq4582",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 300,
+      "lines-end": 302
+    },
+    "code-name": "probe:Equation4582",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/asterix-obelix": {
+    "label": "asterix-obelix",
+    "stub-type": "corollary",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 180,
+      "lines-end": 181
+    },
+    "stub-proof": {
+      "lines-start": 183,
+      "lines-end": 184
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq65",
+      "chapter/equations.tex/eq1491"
+    ],
+    "proof-dependencies": [
+      "chapter/infinite_magma_constructions.tex/no-inject"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/non_imp_1659_4315_thm": {
+    "label": "non_imp_1659_4315_thm",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 659,
+      "lines-end": 662
+    },
+    "code-name": "probe:Equation1659_facts",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1659",
+      "chapter/equations.tex/eq4315",
+      "chapter/intro.tex/models-def"
+    ]
+  },
+  "chapter/equations.tex/eq1648": {
+    "label": "eq1648",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 197,
+      "lines-end": 199
+    },
+    "code-name": "probe:Equation1648",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/953_equiv_2": {
+    "label": "953_equiv_2",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 158,
+      "lines-end": 159
+    },
+    "stub-proof": {
+      "lines-start": 161,
+      "lines-end": 167
+    },
+    "code-name": "probe:Subgraph.Equation953_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq953",
+      "chapter/equations.tex/eq2"
+    ],
+    "proof-ok": true
+  },
+  "chapter/abstract_nonsense.tex/free-confluent": {
+    "label": "free-confluent",
+    "stub-type": "theorem",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 118,
+      "lines-end": 120
+    },
+    "stub-proof": {
+      "lines-start": 122,
+      "lines-end": 124
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/abstract_nonsense.tex/confluent-theory"
+    ]
+  },
+  "chapter/weak_central_groupoids.tex/1485-dual": {
+    "label": "1485-dual",
+    "stub-type": "lemma",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 9,
+      "lines-end": 15
+    },
+    "stub-proof": {
+      "lines-start": 17,
+      "lines-end": 23
+    },
+    "code-name": "probe:WeakCentralGroupoid.dual_eqn",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ]
+  },
+  "chapter/infinite_models.tex/kis-thm2": {
+    "label": "kis-thm2",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 46,
+      "lines-end": 47
+    },
+    "stub-proof": {
+      "lines-start": 49,
+      "lines-end": 66
+    },
+    "code-name": "probe:InfModel.Finite.Equation28770_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq2",
+      "chapter/equations.tex/eq28770"
+    ],
+    "proof-ok": true
+  },
+  "chapter/intro.tex/law-count": {
+    "label": "law-count",
+    "stub-type": "lemma",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 153,
+      "lines-end": 155
+    },
+    "stub-proof": {
+      "lines-start": 157,
+      "lines-end": 159
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/push"
+    ]
+  },
+  "chapter/equations.tex/eq4512": {
+    "label": "eq4512",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 272,
+      "lines-end": 274
+    },
+    "code-name": "probe:Equation4512",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/1681-3877-1701-1035_1": {
+    "label": "1681-3877-1701-1035_1",
+    "code-name": "probe:Eq1441.Finite.Equation1681_implies_Equation3877",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/implications.tex/3744_implies_3722_381": {
+    "label": "3744_implies_3722_381",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 51,
+      "lines-end": 52
+    },
+    "stub-proof": {
+      "lines-start": 54,
+      "lines-end": 66
+    },
+    "spec-dependencies": [
+      "chapter/implications.tex/3744_implies_3722_381_1",
+      "chapter/implications.tex/3744_implies_3722_381_2"
+    ]
+  },
+  "chapter/1729.tex/mag": {
+    "label": "mag",
+    "stub-type": "theorem",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 17,
+      "lines-end": 38
+    },
+    "stub-proof": {
+      "lines-start": 40,
+      "lines-end": 52
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/n-def": {
+    "label": "n-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 76,
+      "lines-end": 79
+    },
+    "spec-dependencies": [
+      "chapter/1729.tex/n-def_1",
+      "chapter/1729.tex/n-def_2",
+      "chapter/1729.tex/n-def_3"
+    ]
+  },
+  "chapter/intro.tex/derivation-def": {
+    "label": "derivation-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 91,
+      "lines-end": 105
+    },
+    "code-name": "probe:derive",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/law-def"
+    ]
+  },
+  "chapter/equations.tex/eq40": {
+    "label": "eq40",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 88,
+      "lines-end": 90
+    },
+    "code-name": "probe:Equation40",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq29": {
+    "label": "eq29",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 70,
+      "lines-end": 72
+    },
+    "code-name": "probe:Equation29",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq63": {
+    "label": "eq63",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 124,
+      "lines-end": 126
+    },
+    "code-name": "probe:Equation63",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/non_imp_1648_206_thm": {
+    "label": "non_imp_1648_206_thm",
+    "stub-type": "theorem",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 595,
+      "lines-end": 598
+    },
+    "code-name": "probe:Equation1648_not_implies_Equation206",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1648",
+      "chapter/equations.tex/eq206",
+      "chapter/intro.tex/models-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/73-extension": {
+    "label": "73-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 470,
+      "lines-end": 471
+    },
+    "stub-proof": {
+      "lines-start": 473,
+      "lines-end": 482
+    },
+    "spec-ok": false
+  },
+  "chapter/infinite_models.tex/3342_1": {
+    "label": "3342_1",
+    "code-name": "probe:Eq3342.Finite.Equation3342_implies_Equation3522",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/infinite_models.tex/period"
+    ]
+  },
+  "chapter/implications.tex/1571_impl": {
+    "label": "1571_impl",
+    "stub-type": "theorem",
+    "stub-path": "chapter/implications.tex",
+    "stub-spec": {
+      "lines-start": 108,
+      "lines-end": 109
+    },
+    "stub-proof": {
+      "lines-start": 111,
+      "lines-end": 156
+    },
+    "spec-dependencies": [
+      "chapter/implications.tex/1571_impl_1",
+      "chapter/implications.tex/1571_impl_2",
+      "chapter/implications.tex/1571_impl_3",
+      "chapter/implications.tex/1571_impl_4",
+      "chapter/implications.tex/1571_impl_5",
+      "chapter/implications.tex/1571_impl_6",
+      "chapter/implications.tex/1571_impl_7"
+    ]
+  },
+  "chapter/equations.tex/eq1659": {
+    "label": "eq1659",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 207,
+      "lines-end": 209
+    },
+    "code-name": "probe:Equation1659",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/metatheorems_from_invariants.tex/compatibility-between-magma-laws": {
+    "label": "compatibility-between-magma-laws",
+    "stub-type": "lemma",
+    "stub-path": "chapter/metatheorems_from_invariants.tex",
+    "stub-spec": {
+      "lines-start": 182,
+      "lines-end": 184
+    },
+    "stub-proof": {
+      "lines-start": 186,
+      "lines-end": 190
+    },
+    "code-name": "probe:Law.satisfies_fin_satisfies_nat",
+    "spec-ok": true
+  },
+  "chapter/intro.tex/induced-def": {
+    "label": "induced-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 48,
+      "lines-end": 51
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/free-magma-def"
+    ]
+  },
+  "chapter/intro.tex/free-magma-def": {
+    "label": "free-magma-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 19,
+      "lines-end": 24
+    },
+    "code-name": "probe:FreeMagma",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/period": {
+    "label": "period",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 105,
+      "lines-end": 106
+    },
+    "stub-proof": {
+      "lines-start": 108,
+      "lines-end": 109
+    },
+    "code-name": "probe:FiniteModel.Finite.fn_eventually_periodic'",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/854.tex/854-1045": {
+    "label": "854-1045",
+    "stub-type": "corollary",
+    "stub-path": "chapter/854.tex",
+    "stub-spec": {
+      "lines-start": 248,
+      "lines-end": 249
+    },
+    "stub-proof": {
+      "lines-start": 251,
+      "lines-end": 254
+    },
+    "code-name": "probe:Refutation_854.not_413_1045",
+    "spec-ok": true
+  },
+  "chapter/implications.tex/1571_impl_2": {
+    "label": "1571_impl_2",
+    "code-name": "probe:Subgraph.Equation1571_implies_Equation40",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1571",
+      "chapter/equations.tex/eq2662",
+      "chapter/equations.tex/eq40",
+      "chapter/equations.tex/eq23",
+      "chapter/equations.tex/eq8",
+      "chapter/equations.tex/eq16",
+      "chapter/equations.tex/eq14",
+      "chapter/equations.tex/eq43",
+      "chapter/equations.tex/eq4512"
+    ],
+    "proof-ok": true
+  },
+  "chapter/general_implications.tex/maximal": {
+    "label": "maximal",
+    "stub-type": "lemma",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 29,
+      "lines-end": 31
+    },
+    "stub-proof": {
+      "lines-start": 33,
+      "lines-end": 35
+    },
+    "code-name": "probe:Law.MagmaLaw.Equation1_maximal",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/pre-order"
+    ]
+  },
+  "chapter/weak_central_groupoids.tex/1485-refutes_1": {
+    "label": "1485-refutes_1",
+    "code-name": "probe:Refutation_1485.not_3457",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ],
+    "proof-dependencies": [
+      "chapter/weak_central_groupoids.tex/greedy-prop",
+      "chapter/weak_central_groupoids.tex/rev-claim"
+    ]
+  },
+  "chapter/1729.tex/sm-1729_2": {
+    "label": "sm-1729_2",
+    "code-name": "probe:Eq1729.SM_square_square_eq_zero",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/equations.tex/eq5093": {
+    "label": "eq5093",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 310,
+      "lines-end": 314
+    },
+    "code-name": "probe:Equation5093",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/677.tex/linear-obstruction": {
+    "label": "linear-obstruction",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 66,
+      "lines-end": 67
+    },
+    "stub-proof": {
+      "lines-start": 69,
+      "lines-end": 72
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/ra-prop": {
+    "label": "ra-prop",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 96,
+      "lines-end": 97
+    },
+    "stub-proof": {
+      "lines-start": 99,
+      "lines-end": 100
+    },
+    "spec-dependencies": [
+      "chapter/1729.tex/ra-prop_1",
+      "chapter/1729.tex/ra-prop_2"
+    ]
+  },
+  "chapter/677.tex/linear-2": {
+    "label": "linear-2",
+    "stub-type": "lemma",
+    "stub-path": "chapter/677.tex",
+    "stub-spec": {
+      "lines-start": 76,
+      "lines-end": 79
+    },
+    "stub-proof": {
+      "lines-start": 81,
+      "lines-end": 87
+    },
+    "spec-ok": false
+  },
+  "chapter/1729.tex/1729_refute_817": {
+    "label": "1729_refute_817",
+    "stub-type": "theorem",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 299,
+      "lines-end": 300
+    },
+    "stub-proof": {
+      "lines-start": 302,
+      "lines-end": 304
+    },
+    "code-name": "probe:Eq1729.not_817",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/partial-exist",
+      "chapter/1729.tex/enlarge-l0",
+      "chapter/1729.tex/enlarge-S",
+      "chapter/1729.tex/enlarge-op",
+      "chapter/1729.tex/chain"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/1076-extension": {
+    "label": "1076-extension",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 538,
+      "lines-end": 539
+    },
+    "stub-proof": {
+      "lines-start": 540,
+      "lines-end": 565
+    },
+    "code-name": "probe:Eq1076.Greedy.lift",
+    "spec-ok": true
+  },
+  "chapter/weak_central_groupoids.tex/greedy-prop": {
+    "label": "greedy-prop",
+    "stub-type": "proposition",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 87,
+      "lines-end": 89
+    },
+    "stub-proof": {
+      "lines-start": 91,
+      "lines-end": 97
+    },
+    "code-name": "probe:RelaxedVeryWeakCentralGroupoid.Greedy.exists_extension",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ]
+  },
+  "chapter/1516.tex/second-ext": {
+    "label": "second-ext",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 132,
+      "lines-end": 133
+    },
+    "stub-proof": {
+      "lines-start": 135,
+      "lines-end": 142
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq39": {
+    "label": "eq39",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 82,
+      "lines-end": 84
+    },
+    "code-name": "probe:Equation39",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/non-inject": {
+    "label": "non-inject",
+    "stub-type": "corollary",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 850,
+      "lines-end": 851
+    },
+    "stub-proof": {
+      "lines-start": 853,
+      "lines-end": 854
+    },
+    "code-name": "probe:Eq63.Equation63_not_implies_Equation1692",
+    "spec-ok": true
+  },
+  "chapter/1516.tex/aux": {
+    "label": "aux",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1516.tex",
+    "stub-spec": {
+      "lines-start": 84,
+      "lines-end": 90
+    },
+    "stub-proof": {
+      "lines-start": 92,
+      "lines-end": 93
+    },
+    "spec-ok": false
+  },
+  "chapter/equations.tex/eq953": {
+    "label": "eq953",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 173,
+      "lines-end": 175
+    },
+    "code-name": "probe:Equation953",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq43": {
+    "label": "eq43",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 106,
+      "lines-end": 108
+    },
+    "code-name": "probe:Equation43",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq2": {
+    "label": "eq2",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 14,
+      "lines-end": 16
+    },
+    "code-name": "probe:Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/1323.tex/greedy-1323": {
+    "label": "greedy-1323",
+    "stub-type": "lemma",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 101,
+      "lines-end": 102
+    },
+    "stub-proof": {
+      "lines-start": 104,
+      "lines-end": 109
+    },
+    "code-name": "probe:Eq1323.extend",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/1323.tex/partial-1323-sound"
+    ]
+  },
+  "chapter/weak_central_groupoids.tex/1485-refutes": {
+    "label": "1485-refutes",
+    "stub-type": "theorem",
+    "stub-path": "chapter/weak_central_groupoids.tex",
+    "stub-spec": {
+      "lines-start": 99,
+      "lines-end": 107
+    },
+    "stub-proof": {
+      "lines-start": 109,
+      "lines-end": 135
+    },
+    "spec-dependencies": [
+      "chapter/weak_central_groupoids.tex/1485-refutes_1",
+      "chapter/weak_central_groupoids.tex/1485-refutes_2",
+      "chapter/weak_central_groupoids.tex/1485-refutes_3"
+    ]
+  },
+  "chapter/equations.tex/eq206": {
+    "label": "eq206",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 142,
+      "lines-end": 144
+    },
+    "code-name": "probe:Equation206",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq45": {
+    "label": "eq45",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 112,
+      "lines-end": 114
+    },
+    "code-name": "probe:Equation45",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/kis-thm_2": {
+    "label": "kis-thm_2",
+    "code-name": "probe:InfModel.Equation374794_not_implies_Equation2",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq374794",
+      "chapter/equations.tex/eq2"
+    ],
+    "proof-ok": true
+  },
+  "chapter/intro.tex/law-def": {
+    "label": "law-def",
+    "stub-type": "definition",
+    "stub-path": "chapter/intro.tex",
+    "stub-spec": {
+      "lines-start": 61,
+      "lines-end": 70
+    },
+    "code-name": "probe:Law.MagmaLaw",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/induced-def"
+    ]
+  },
+  "chapter/1323.tex/1323-refute-2744": {
+    "label": "1323-refute-2744",
+    "stub-type": "corollary",
+    "stub-path": "chapter/1323.tex",
+    "stub-spec": {
+      "lines-start": 117,
+      "lines-end": 118
+    },
+    "stub-proof": {
+      "lines-start": 120,
+      "lines-end": 129
+    },
+    "code-name": "probe:Eq1323.Equation1323_not_implies_Equation2744",
+    "spec-ok": true,
+    "proof-dependencies": [
+      "chapter/1323.tex/greedy-iterate"
+    ]
+  },
+  "chapter/equations.tex/eq16": {
+    "label": "eq16",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 60,
+      "lines-end": 62
+    },
+    "code-name": "probe:Equation16",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/implications.tex/3744_implies_3722_381_2": {
+    "label": "3744_implies_3722_381_2",
+    "code-name": "probe:Subgraph.Equation3744_implies_Equation381",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq3744",
+      "chapter/equations.tex/eq3722",
+      "chapter/equations.tex/eq381"
+    ],
+    "proof-ok": true
+  },
+  "chapter/infinite_magma_constructions.tex/iteration": {
+    "label": "iteration",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 71,
+      "lines-end": 72
+    },
+    "stub-proof": {
+      "lines-start": 74,
+      "lines-end": 145
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/infinite_magma_constructions.tex/partial-solution"
+    ]
+  },
+  "chapter/infinite_magma_constructions.tex/extension-lemma": {
+    "label": "extension-lemma",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_magma_constructions.tex",
+    "stub-spec": {
+      "lines-start": 801,
+      "lines-end": 802
+    },
+    "stub-proof": {
+      "lines-start": 804,
+      "lines-end": 843
+    },
+    "code-name": "probe:Eq63.Greedy.Extension.Next",
+    "spec-ok": true
+  },
+  "chapter/906.tex/edge-disjoint": {
+    "label": "edge-disjoint",
+    "stub-type": "corollary",
+    "stub-path": "chapter/906.tex",
+    "stub-spec": {
+      "lines-start": 16,
+      "lines-end": 18
+    },
+    "stub-proof": {
+      "lines-start": 20,
+      "lines-end": 21
+    },
+    "spec-ok": false
+  },
+  "chapter/abstract_nonsense.tex/477-confl": {
+    "label": "477-confl",
+    "stub-type": "theorem",
+    "stub-path": "chapter/abstract_nonsense.tex",
+    "stub-spec": {
+      "lines-start": 136,
+      "lines-end": 138
+    },
+    "stub-proof": {
+      "lines-start": 140,
+      "lines-end": 152
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/abstract_nonsense.tex/confluent-theory",
+      "chapter/equations.tex/eq477"
+    ],
+    "proof-dependencies": [
+      "chapter/abstract_nonsense.tex/477-lemma"
+    ]
+  },
+  "chapter/equations.tex/eq477": {
+    "label": "eq477",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 160,
+      "lines-end": 162
+    },
+    "code-name": "probe:Equation477",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/equations.tex/eq1485": {
+    "label": "eq1485",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 179,
+      "lines-end": 181
+    },
+    "code-name": "probe:Equation1491",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/infinite_models.tex/ffg": {
+    "label": "ffg",
+    "stub-type": "lemma",
+    "stub-path": "chapter/infinite_models.tex",
+    "stub-spec": {
+      "lines-start": 91,
+      "lines-end": 92
+    },
+    "stub-proof": {
+      "lines-start": 94,
+      "lines-end": 95
+    },
+    "code-name": "probe:FiniteModel.Finite.f_ffg_implies_f_fgf",
+    "spec-ok": true,
+    "proof-ok": true
+  },
+  "chapter/1729.tex/enlarge-op": {
+    "label": "enlarge-op",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 274,
+      "lines-end": 275
+    },
+    "stub-proof": {
+      "lines-start": 277,
+      "lines-end": 296
+    },
+    "code-name": "probe:Eq1729.enlarge_op",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/enlarge-S"
+    ]
+  },
+  "chapter/general_implications.tex/duality": {
+    "label": "duality",
+    "stub-type": "lemma",
+    "stub-path": "chapter/general_implications.tex",
+    "stub-spec": {
+      "lines-start": 57,
+      "lines-end": 59
+    },
+    "stub-proof": {
+      "lines-start": 61,
+      "lines-end": 63
+    },
+    "code-name": "probe:Law.MagmaLaw.implies_iff_dual",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/general_implications.tex/pre-order"
+    ]
+  },
+  "chapter/equations.tex/eq26302": {
+    "label": "eq26302",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 318,
+      "lines-end": 322
+    },
+    "spec-ok": false,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
+  },
+  "chapter/weak_central_groupoids.tex/1485-refutes_2": {
+    "label": "1485-refutes_2",
+    "code-name": "probe:Refutation_1485.not_3511",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/equations.tex/eq1485"
+    ],
+    "proof-dependencies": [
+      "chapter/weak_central_groupoids.tex/greedy-prop",
+      "chapter/weak_central_groupoids.tex/rev-claim"
+    ]
+  },
+  "chapter/1729.tex/enlarge-S": {
+    "label": "enlarge-S",
+    "stub-type": "proposition",
+    "stub-path": "chapter/1729.tex",
+    "stub-spec": {
+      "lines-start": 266,
+      "lines-end": 267
+    },
+    "stub-proof": {
+      "lines-start": 269,
+      "lines-end": 270
+    },
+    "code-name": "probe:Eq1729.enlarge_S'",
+    "spec-ok": true,
+    "proof-ok": true,
+    "proof-dependencies": [
+      "chapter/1729.tex/enlarge-S-induct"
+    ]
+  },
+  "chapter/equations.tex/eq387": {
+    "label": "eq387",
+    "stub-type": "definition",
+    "stub-path": "chapter/equations.tex",
+    "stub-spec": {
+      "lines-start": 154,
+      "lines-end": 156
+    },
+    "code-name": "probe:Equation387",
+    "spec-ok": true,
+    "spec-dependencies": [
+      "chapter/intro.tex/magma-def"
+    ]
   }
 }
