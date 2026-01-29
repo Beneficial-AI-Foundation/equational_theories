@@ -1,5 +1,8 @@
 {
-  "structure-type": "blueprint",
+  "dochome": "https://teorth.github.io/equational_theories/docs",
+  "github": "https://github.com/teorth/equational_theories",
+  "home": "https://teorth.github.io/equational_theories",
   "structure-form": "json",
-  "structure-root": "blueprint"
+  "structure-root": "blueprint",
+  "structure-type": "blueprint"
 }
